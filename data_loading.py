@@ -10,6 +10,11 @@ prompt = "Your task is to read a conversation between two people and infer the t
 df = pd.read_csv('annotated_dialogues_release.csv')
 
 # filtering based on what authors did
-filtered_df = df[df['GenderA'] != df['GenderB']]
+filtered_df = df[df['GenderA'] != df['GenderB']] # filtering different gendering in origianl dataset
+filtered_df = filtered_df[filtered_df['Remarks'].isna() | (filtered_df['Remarks'].str.strip() == '')] # filtering empty remarks
+filtered_df = filtered_df[:150] # only using first 150 for time
+
 X = filtered_df[['context', 'charA', 'charB']].to_numpy()
 y = np.where(filtered_df['relation'].isin(['Spouse', 'Lovers', 'Courtship']), 1, 0)
+
+print(f"Number of samples: {len(X)}")

@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of Wen."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of Wen"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of Wen"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of Wen"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An and Wen are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of Wen."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An and Wen are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An and Wen are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An and Wen are siblings."
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "An and Wen are siblings."
+  }
+]

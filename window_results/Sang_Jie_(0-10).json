@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is the child of Jie."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is the child of Jie"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is the child of Jie."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is the child of Jie"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang and Jie are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is the child of Jie."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is the child of Jie."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is Sang's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is a child of Jie"
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "Sang is a child of Jie"
+  }
+]

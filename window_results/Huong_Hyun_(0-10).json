@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Huong is the child of Hyun."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Huong is the child of Hyun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Huong is the child of Hyun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Huong is the child of Hyun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Huong is the child of Hyun."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Huong is Hyun's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Huong is the child of Hyun."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Huong is a child of Hyun."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Huong is the child of Hyun."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Huong and Hyun is that of lovers."
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is Dat's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat is the child of Hanh."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat is the child of Hanh."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat is the child of Hanh"
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "Dat and Hanh are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat is the child of Hanh."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat and Hanh are siblings."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Dat and Hanh is a conversation between lovers."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Dat and Hanh is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat and Hanh are siblings."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation is between two lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat and Hanh are siblings."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation is about a romantic relationship between Dat and Hanh."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat is Hanh's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is Dat's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat is Hanh's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat and Hanh are siblings."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The two people are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat and Hanh are siblings."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Dat and Hanh is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat is a child of Hanh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat is a child of Hanh."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat is a child of Hanh."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The two people are in a romantic relationship."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat is a child of Hanh"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation is between two lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat is the child of Hanh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Because I asked you. And..."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat is a child of Hanh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat is the child of Hanh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat is a child of Hanh."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat and Hanh are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is Dat's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat is the child of Hanh"
+  },
+  {
+    "type": "Friends",
+    "explanation": "The two people are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat and Hanh are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat is a child of Hanh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat and Hanh are siblings."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Dat and Hanh is a conversation between lovers."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Dat and Hanh are friends."
+  }
+]

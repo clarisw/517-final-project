@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Eun is a child of Sang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Eun is the child of Sang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Eun is the child of Sang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Eun is the child of Sang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Eun is the child of Sang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Eun is the child of Sang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Eun is a child of Sang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Eun is a child of Sang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Eun is Sang's child."
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "Eun is Sang's child and Sang is Eun's other family elder."
+  }
+]

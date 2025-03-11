@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is the child of Xiao."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is the child of Xiao"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is the child of Xiao"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is the child of Xiao"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is the child of Xiao."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is the parent of Xiao."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is the child of Xiao."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is Xiao's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is the child of Xiao"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Trinh and Xiao are lovers."
+  }
+]

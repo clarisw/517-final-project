@@ -1,0 +1,158 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Hoang is the parent of Nghia."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is Hoang's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is Hoang's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is Hoang's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is Hoang's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is the child of Hoang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is a child of Hoang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia and Hoang are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Based on the conversation, it is inferred that Nghia is a child of Hoang."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Both are children of the same parent"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Nghia and Hoang is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is Hoang's child."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Based on the conversation, it is inferred that Nghia and Hoang are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is Hoang's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hoang is the parent of Nghia"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is a child of Hoang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is Hoang's child."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The two people are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is a child of Hoang"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Nghia and Hoang is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is a child of Hoang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is a child of Hoang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is a child of Hoang"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation is between two lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is a child of Hoang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is a child of Hoang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is a child of Hoang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Because I asked you. And..."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Both are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is Hoang's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hoang is the parent of Nghia"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Based on the conversation, it is inferred that Nghia is the child of Hoang."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is the child of Hoang"
+  },
+  {
+    "type": "Friends",
+    "explanation": "Both are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is Hoang's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is a child of Hoang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is the child of Hoang"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Nghia and Hoang is a conversation between lovers."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Nghia and Hoang are friends."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is a child of Wei"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is the child of Wei"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is the child of Wei"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is the child of Wei"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "The relationship between Hyun and Wei is that of a child and parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is Wei's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is the child of Wei"
+  },
+  {
+    "type": "Friends",
+    "explanation": "The two people are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun and Wei are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is Wei's child."
+  }
+]

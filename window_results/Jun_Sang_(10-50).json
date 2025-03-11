@@ -1,0 +1,162 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Jun and Sang are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun and Sang are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is the child of Sang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is the child of Sang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is Sang's child."
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "Jun is Sang's child or Sang is Jun's other family elder."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun and Sang are siblings."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Jun and Sang are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is a child of Sang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is the child of Sang"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation is between two lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is Sang's child."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Jun and Sang are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is Sang's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is a child of Sang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is the child of Sang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun and Sang are siblings."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Jun and Sang are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is the child of Sang"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Jun and Sang are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is a child of Sang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is a child of Sang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is a child of Sang"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Jun and Sang are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is a child of Sang"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Jun and Sang are lovers."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Jun and Sang are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is a child of Sang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is a child of Sang"
+  },
+  {
+    "type": "Friends",
+    "explanation": "Jun and Sang are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is the child of Sang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is the child of Sang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is the child of Sang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is the child of Sang"
+  },
+  {
+    "type": "Friends",
+    "explanation": "Jun and Sang are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun and Sang are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is a child of Sang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is the child and Sang is the parent."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Jun and Sang are lovers."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Jun and Sang are friends."
+  }
+]

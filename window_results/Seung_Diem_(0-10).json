@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Seung is the child of Diem."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Seung is the child of Diem"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Seung is the child of Diem"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Diem is the child of Seung."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Diem is the parent of Seung."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Seung is the child of Diem."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Seung is the child of Diem"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Diem is the child of Seung."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Seung is the child of Diem"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Diem is Seung's mother."
+  }
+]

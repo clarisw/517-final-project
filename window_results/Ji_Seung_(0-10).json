@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Ji is a child of Seung."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ji is the child of Seung"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ji is the child of Seung"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ji is the child of Seung"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ji and Seung are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ji is the parent of Seung."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ji is a child of Seung"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ji and Seung are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ji and Seung are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ji is a child of Seung"
+  }
+]

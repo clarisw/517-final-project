@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Seung is the child of Ngoc."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Seung is the child of Ngoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Seung is the child of Ngoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Both are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "The relationship between Seung and Ngoc is that of a child and a parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Seung is the child of Ngoc."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Seung is the child of Ngoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "The conversation is between a child and a parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Seung is the child of Ngoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Seung is the child of Ngoc"
+  }
+]

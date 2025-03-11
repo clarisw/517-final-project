@@ -1,0 +1,162 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc and Trinh are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is the child of Trinh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is the child of Trinh."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is the child of Trinh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is Trinh's child."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Quoc and Trinh are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is the child of Trinh."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc and Trinh are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is Trinh's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is Trinh's child."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation is between two lovers."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Quoc and Trinh is about a romantic relationship."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Quoc and Trinh are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is Trinh's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is Trinh's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is the child of Trinh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc and Trinh are siblings."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Quoc and Trinh are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is the child of Trinh"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Quoc and Trinh are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is a child of Trinh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is a child of Trinh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is a child of Trinh"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Quoc and Trinh are in a relationship."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is a child of Trinh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is a child of Trinh"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Quoc and Trinh are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is the child of Trinh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is a child of Trinh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is the child of Trinh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is the child of Trinh."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is the child of Trinh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is the child of Trinh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is Trinh's child."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Quoc and Trinh are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is Trinh's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is Trinh's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is the child of Trinh."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Quoc and Trinh are lovers."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Quoc and Trinh are friends."
+  }
+]

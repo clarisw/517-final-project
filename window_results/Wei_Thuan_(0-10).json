@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "The relationship between Wei and Thuan is that of a child and parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wei is the child of Thuan"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "The relationship between Wei and Thuan is that of a child and a parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is Wei's parent"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is Wei's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Both Wei and Thuan are young and Wei is older than Thuan.  This is a typical parent-child relationship."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "The relationship between Wei and Thuan is that of a child and parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is Wei's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Both Wei and Thuan are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is Wei's parent."
+  }
+]

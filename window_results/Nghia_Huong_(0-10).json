@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is the child of Huong."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is the child of Huong"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is the child of Huong"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is the child of Huong"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is Huong's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is the child of Huong"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is the child of Huong"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is Huong's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is the child of Huong."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is the child of Huong"
+  }
+]

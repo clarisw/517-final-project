@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is a child of Vy"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is the child of Vy"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is the child of Vy"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is the child of Vy"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is the child of Vy"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is the child of Vy."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is the child of Vy."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is Vy's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is the child of Vy."
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "Hien is a child of Vy's family."
+  }
+]

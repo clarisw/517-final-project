@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of In."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of In"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of In"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of In"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of In."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of In."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of In."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "The conversation is between a child and a parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of In."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of In."
+  }
+]

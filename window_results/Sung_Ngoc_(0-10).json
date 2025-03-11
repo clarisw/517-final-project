@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is a child of Ngoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is the child of Ngoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is the child of Ngoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is the child of Ngoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is the child of Ngoc."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is Ngoc's father."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is Ngoc's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is Ngoc's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is the child of Ngoc"
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "Sung is Ngoc's child and Ngoc is Sung's other family elder."
+  }
+]

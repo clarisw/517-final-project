@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Eun is a child of Su."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Eun is the child of Su"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Eun is the child of Su."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Eun is the child of Su"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Eun is a child of Su."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Eun is the child of Su."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Eun is a child of Su."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Eun is a child of Su."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Eun is a child of Su."
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "Eun is a child of Su"
+  }
+]

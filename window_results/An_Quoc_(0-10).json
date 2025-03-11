@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of Quoc."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of Quoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of Quoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is An's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is An's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of Quoc."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of Quoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is An's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An and Quoc are siblings."
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "Quoc is An's elder and An is Quoc's child."
+  }
+]

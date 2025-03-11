@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is the child of Ngoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is the child of Ngoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is the child of Ngoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is the child of Ngoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun and Ngoc are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is the child of Ngoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun and Ngoc are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun and Ngoc are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun and Ngoc are siblings."
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "Jun is the child of Ngoc"
+  }
+]

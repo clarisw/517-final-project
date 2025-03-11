@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is the child of Ngoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is the child of Ngoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is the child of Ngoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is the child of Ngoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc and Ngoc are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is the child of Ngoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is the child of Ngoc."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc and Ngoc are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is the child of Ngoc."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is the child of Ngoc"
+  }
+]

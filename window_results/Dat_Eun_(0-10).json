@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Dat is a child of Eun."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat is the child of Eun."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat is the child of Eun."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Eun is Dat's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat and Eun are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat is the child of Eun."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat and Eun are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat and Eun are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat and Eun are siblings."
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "Dat and Eun are siblings."
+  }
+]

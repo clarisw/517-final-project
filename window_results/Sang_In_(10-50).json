@@ -1,0 +1,158 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "In is Sang's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is the child and In is the parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is the child of In."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is the child of In"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is the child of In."
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "Sang is a child of In."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang and In are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is the child of In"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is a child of In"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is the child of In."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation is between two lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "In is Sang's parent."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation is between two lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is a child of In."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "In is Sang's parent."
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "Sang is a child of In"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is the child and In is the parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is a child of In."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is a child of In"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is a child of In"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is a child of In."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is a child of In."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is a child of In."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is a child of In"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is a child of In."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is a child of In"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Because I asked you. And..."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is a child of In"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is a child of In"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is a child of In."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "In is the parent of Sang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "In is Sang's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is the child of In."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Sang and In are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "In is the child of Sang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is a child of In"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "In is Sang's child."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Sang and In is that of lovers. Sang and In are in a relationship where they are in love with each other."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Sang and In are friends."
+  }
+]

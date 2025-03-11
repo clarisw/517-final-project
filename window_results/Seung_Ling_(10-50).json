@@ -1,0 +1,162 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is a child of Seung."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Seung and Ling are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Seung is the child of Ling."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is Seung's mother."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Seung is the child of Ling."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Seung is the child of Ling"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Seung and Ling are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is the child of Seung"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Seung and Ling is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Both are children of the same parent."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Seung and Ling is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is the child of Seung."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Seung and Ling is about their relationship. They are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is calling Seung a genius, which is a sign of parental affection."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is a child of Seung."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Seung is the child of Ling"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Seung and Ling are siblings."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The two people are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Because Seung is younger than Ling, Ling is the parent of Seung."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Seung and Ling is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Seung is a child of Ling"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Seung is a child of Ling."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "The relationship between Seung and Ling is that of a child and parent."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation is between two lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Seung is a child of Ling"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation is between two lovers."
+  },
+  {
+    "type": "Friends",
+    "explanation": "The two people are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Because I asked you. And..."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "The relationship between Seung and Ling is that of a child and a parent."
+  },
+  {
+    "type": "Friends",
+    "explanation": "The two people are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Seung is the child of Ling"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is a child of Seung"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Seung and Ling is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is the child of Seung."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Both are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is a child of Seung"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Seung is a child of Ling"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is a child of Seung"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Seung and Ling is that of lovers. They are in a relationship and are in love with each other."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Both are friends."
+  }
+]

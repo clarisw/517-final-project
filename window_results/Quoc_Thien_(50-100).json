@@ -1,0 +1,202 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is the child of Thien."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Quoc and Thien are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is the child of Thien."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is the child of Thien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is the child of Thien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is the child of Thien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is a child of Thien"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Quoc and Thien are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is Thien's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is the child of Thien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is a child of Thien"
+  },
+  {
+    "type": "Friends",
+    "explanation": "Quoc and Thien are friends."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Quoc and Thien are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is the child of Thien."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is the child of Thien"
+  },
+  {
+    "type": "Friends",
+    "explanation": "Quoc and Thien are friends."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Quoc and Thien are friends."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Quoc and Thien are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is Thien's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is a child of Thien"
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "Quoc is a child of Thien's family. Thien is an elder of Quoc's family."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is a child of Thien."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is the child of Thien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is the child of Thien"
+  },
+  {
+    "type": "Friends",
+    "explanation": "Quoc and Thien are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc and Thien are siblings."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Quoc and Thien are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is the child of Thien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is the parent of Thien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is the child of Thien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is the child of Thien"
+  },
+  {
+    "type": "Friends",
+    "explanation": "Quoc and Thien are friends."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Quoc and Thien are friends."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Quoc and Thien are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is the child of Thien"
+  },
+  {
+    "type": "Friends",
+    "explanation": "Quoc and Thien are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is Thien's parent."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Quoc and Thien are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is Thien's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is the child of Thien"
+  },
+  {
+    "type": "Friends",
+    "explanation": "Quoc and Thien are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is the child of Thien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is Thien's parent."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Quoc and Thien are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is Thien's child."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Quoc and Thien are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is the child of Thien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is a child of Thien"
+  },
+  {
+    "type": "Friends",
+    "explanation": "Quoc and Thien are friends."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Quoc and Thien are lovers."
+  }
+]

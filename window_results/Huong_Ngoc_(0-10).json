@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Huong is a child of Ngoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Huong is the child of Ngoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Huong is the child of Ngoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Huong is the child of Ngoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Huong is the child of Ngoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Huong is Ngoc's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Huong is the child of Ngoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Huong is a child of Ngoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Huong is the child of Ngoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Huong is the child of Ngoc"
+  }
+]

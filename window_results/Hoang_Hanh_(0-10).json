@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Hoang is the child of Hanh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hoang is the child of Hanh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hoang is the child of Hanh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is the child of Hoang."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is the parent of Hoang."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hoang is the child of Hanh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is Hoang's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is Hoang's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hoang is the child of Hanh"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Hanh and Hoang are lovers."
+  }
+]

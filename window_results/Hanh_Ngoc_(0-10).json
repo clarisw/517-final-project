@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is the child of Ngoc."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is the child of Ngoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is the child of Ngoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is the child of Ngoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh and Ngoc are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is the child of Ngoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is the child of Ngoc."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh and Ngoc are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh and Ngoc are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is the child of Ngoc"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is a child of Hoang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is a child of Hoang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is Hoang's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is a child of Hoang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is a child of Hoang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is the child of Hoang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is Hoang's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is a child of Hoang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is a child of Hoang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is Hoang's child."
+  }
+]

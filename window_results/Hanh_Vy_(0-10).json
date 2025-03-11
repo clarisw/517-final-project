@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is the child of Vy"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is the child of Vy"
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "Hanh is the child of Vy's other family elder."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is the child of Vy"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh and Vy are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is the child of Vy."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is the child of Vy."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is Vy's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is the child of Vy."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Hanh and Vy are lovers."
+  }
+]

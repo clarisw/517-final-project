@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Seung is the child of Quoc."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Seung is the child of Quoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Seung is the child of Quoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is the child of Seung"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is the parent of Seung."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Seung is the child of Quoc."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is Seung's parent."
+  },
+  {
+    "type": "Friends",
+    "explanation": "The two people are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Seung is the child of Quoc."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is Seung's parent."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is the child of An."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is the child of An."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is the child of An."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is the child of An."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "The relationship between Hyun and An is that of a child and a parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is the child of An."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is the child of An."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "The conversation is between a child and a parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is the child of An."
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "Hyun is a child of An's family.  Hyun is also an elder of An's family."
+  }
+]

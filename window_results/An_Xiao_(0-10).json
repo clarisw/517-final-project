@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of Xiao."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of Xiao"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of Xiao"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is the child of An."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An and Xiao are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is the parent of Xiao"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of Xiao"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of Xiao"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An and Xiao are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of Xiao"
+  }
+]

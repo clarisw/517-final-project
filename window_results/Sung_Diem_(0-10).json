@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is the child of Diem"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is the child of Diem"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is the child of Diem"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Diem is the child of Sung."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is the child of Diem."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is the child of Diem."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is the child of Diem"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Diem is Sung's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is the child of Diem"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Sung and Diem is that of lovers."
+  }
+]

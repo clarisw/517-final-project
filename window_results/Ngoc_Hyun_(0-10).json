@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is the child of Hyun."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is the child of Hyun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is the child of Hyun."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is the child of Hyun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is the child of Hyun."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is Hyun's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is the child of Hyun."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is a child of Hyun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is the child of Hyun."
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "Hyun is Ngoc's parent or grandparent."
+  }
+]

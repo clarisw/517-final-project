@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is Sang's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is the child of Sang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is Sang's parent"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is Sang's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is Sang's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is the child of Sang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is Sang's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is Sang's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is Sang's child."
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "Thuan is Sang's child and Sang is Sang's other family elder."
+  }
+]

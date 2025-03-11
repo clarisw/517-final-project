@@ -1,0 +1,162 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan and Vy are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is the child of Vy"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is Vy's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is Vy's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is Vy's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is Vy's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is the child of Vy"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is the child of Vy"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is Vy's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is Vy's child."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Thuan and Vy is about their relationship. They are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is Vy's parent."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Thuan and Vy are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is Vy's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is Vy's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is the child of Vy"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is the child of Vy"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is the child of Vy."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is the child of Vy"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Thuan and Vy are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is a child of Vy"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is a child of Vy"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is a child of Vy."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is a child of Vy"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is the child of Vy."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is a child of Vy."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is a child of Vy"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is the child of Vy"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is a child of Vy"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is the child of Vy"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is the child of Vy."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is the child of Vy"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan and Vy are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is Vy's child."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Thuan and Vy are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is the child of Vy"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is a child of Vy"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is the child of Vy."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Thuan and Vy is a conversation between lovers."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Thuan and Vy are friends."
+  }
+]

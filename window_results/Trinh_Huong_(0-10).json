@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is the child of Huong."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is the child of Huong"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is the child of Huong"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Huong is the child of Trinh."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh and Huong are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is the parent of Huong."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is the child of Huong"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Huong is Trinh's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is the child of Huong."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is the child of Huong"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is a child of Hien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is the child of Hien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is the child of Hien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is the child of Hien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is the child of Hien."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is the child of Hien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is a child of Hien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is a child of Hien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is a child of Hien"
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "Ling is a child of Hien"
+  }
+]

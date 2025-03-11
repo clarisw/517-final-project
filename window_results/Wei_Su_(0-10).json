@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "The relationship between Wei and Su is that of a child and a parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Both Wei and Su are parents of the same child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "The relationship between Wei and Su is that of a child and a parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Su is Wei's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Su is Wei's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Both Wei and Su are from the same family. Wei is the parent and Su is the child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "The conversation between Wei and Su is that of a child and a parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Su is Wei's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "The conversation between Wei and Su is between a child and a parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Su is Wei's parent."
+  }
+]

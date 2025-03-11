@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Diem is the child of An."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Diem is the child of An."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Diem is the child of An."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Diem is the child of An."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Diem is the child of An."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Diem is the parent of An."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Diem is the child of An."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Diem is the child of An."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Diem is the child of An."
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "Diem is a child of An."
+  }
+]

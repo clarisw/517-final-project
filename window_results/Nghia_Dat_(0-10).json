@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is a child of Dat"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is the child of Dat"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is Dat's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat is the child of Nghia"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat is the parent of Nghia."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is Dat's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is Dat's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat is Nghia's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is Dat's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat is Nghia's parent."
+  }
+]

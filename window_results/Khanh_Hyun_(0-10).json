@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Khanh is the child of Hyun."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Khanh is the child of Hyun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Khanh is the child of Hyun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Khanh is the child of Hyun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Khanh is the child of Hyun."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Khanh is Hyun's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Khanh is Hyun's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Khanh is Hyun's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Khanh is the child of Hyun."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Khanh is the child of Hyun"
+  }
+]

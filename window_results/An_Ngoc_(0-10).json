@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of Ngoc."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of Ngoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of Ngoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of Ngoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An and Ngoc are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is Ngoc's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An and Ngoc are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "The conversation is between a child and a parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An and Ngoc are siblings."
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "An and Ngoc are siblings."
+  }
+]

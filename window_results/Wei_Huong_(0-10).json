@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "The relationship between Wei and Huong is that of a child and a parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Both Wei and Huong are parents of Junior."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "The relationship between Wei and Huong is that of a child and a parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Huong is Wei's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "The conversation between Wei and Huong is between a child and a parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Both Wei and Huong are young and Wei is older than Huong. Wei is a male and Huong is a female. Wei is a parent and Huong is a child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Both Wei and Huong are young and they are both in the same school. They are also friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Huong is Wei's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Both Wei and Huong are in their 20s and Wei is older than Huong."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Huong is Wei's parent."
+  }
+]

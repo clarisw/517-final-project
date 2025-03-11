@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is the child of Ling"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is the child of Ling"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is the child of Ling"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is the child of Ling"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc and Ling are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is the child of Ling"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is the child of Ling"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc and Ling are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is the child of Ling"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is the child of Ling"
+  }
+]

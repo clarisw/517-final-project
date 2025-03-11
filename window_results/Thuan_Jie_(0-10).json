@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is the child of Jie."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is the child of Jie"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is the child of Jie"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is the child of Jie"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan and Jie are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is the child of Jie."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is the child of Jie."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is Jie's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is the child of Jie"
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "Thuan is a child of Jie's other family elder."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Ji is a child of Huong"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ji is the child of Huong"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ji is the child of Huong"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ji is the child of Huong"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ji and Huong are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ji is the child of Huong"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ji is the child of Huong"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ji is the child of Huong"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ji and Huong are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ji is the child of Huong"
+  }
+]

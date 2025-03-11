@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is the child of Jun."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is the child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is the child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is the child of Hyun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is Hyun's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is the child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is the child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is Hyun's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun and Jun are siblings."
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "Jun is Hyun's elder and Hyun is Jun's child."
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is a child of Thuan"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is the child of Ling"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is the child of Ling"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is the child of Ling"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is the child of Ling"
+  },
+  {
+    "type": "Friends",
+    "explanation": "Thuan and Ling are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is the child of Ling"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is the child of Ling"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation is about a romantic relationship between Thuan and Ling."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is the child of Ling"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation is between two lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is the child of Thuan."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Thuan and Ling are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is the child of Ling"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is a parent of Thuan"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is the child of Ling"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is the child of Ling"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Thuan and Ling are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is the child of Ling"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Thuan and Ling is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is a child of Ling"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is a child of Ling"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is a child of Ling"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation is between two lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is a child of Ling"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Thuan and Ling are lovers."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Thuan and Ling is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Because I asked you. And..."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is a child of Ling"
+  },
+  {
+    "type": "Friends",
+    "explanation": "Thuan and Ling are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is the child of Ling"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is a child of Thuan"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Thuan and Ling is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is the child of Ling"
+  },
+  {
+    "type": "Friends",
+    "explanation": "Thuan and Ling are friends."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Thuan and Ling is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is a child of Ling"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is the child of Ling"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Thuan and Ling is a conversation between lovers."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Thuan and Ling are friends."
+  }
+]

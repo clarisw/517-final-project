@@ -1,0 +1,162 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Hoang is a child of Su."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hoang is a child and Su is a parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hoang is the child of Su."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hoang is the child of Su"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hoang is a child of Su."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hoang is the child of Su."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hoang is a child of Su."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hoang is the child of Su"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hoang is a child of Su"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hoang is a child of Su."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation is between two lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hoang is the child and Su is the parent."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Hoang and Su is about a romantic relationship between the two people."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hoang is a child of Su."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Su is Hoang's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hoang is a child of Su"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hoang is the child and Su is the parent."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Hoang and Su are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hoang is a child of Su"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Hoang and Su is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hoang is a child of Su."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hoang is a child of Su."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hoang is a child of Su."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The two people are in a romantic relationship."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hoang is a child of Su"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Hoang and Su are lovers."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Hoang and Su is about a romantic relationship."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Because I asked you. And..."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation is between two lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hoang is a child of Su."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hoang is a child of Su."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Su is a child of Hoang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Su is Hoang's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hoang is a child of Su."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Both are friends."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Hoang and Su is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hoang is a child of Su"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hoang is the child and Su is the parent."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Hoang and Su is a conversation between lovers."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Hoang and Su are friends."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is a child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is the child of Jie"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is the child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is the child of Jie"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is the parent of Jie."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is the child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is a child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is the child of Jie."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie and Jun are siblings."
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "Jun is the elder of Jie."
+  }
+]

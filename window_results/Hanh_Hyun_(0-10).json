@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is the child of Hyun."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is the child of Hyun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is the child of Hyun."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is the child of Hyun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh and Hyun are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is Hyun's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is the child of Hyun."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is a child of Hyun."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is the child of Hyun."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is the child of Hyun."
+  }
+]

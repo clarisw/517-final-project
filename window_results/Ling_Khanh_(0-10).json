@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is a child of Khanh."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is the child of Khanh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is the child of Khanh."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is the child of Khanh."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is the child of Khanh."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is the child of Khanh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is a child of Khanh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is a child of Khanh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is the child of Khanh"
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "Ling is Khanh's child and Khanh is Ling's other family elder."
+  }
+]

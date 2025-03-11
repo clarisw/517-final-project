@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is the child of Hanh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is the child of Hanh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is the child of Hanh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is the child of Hanh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is the child of Hanh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is the child of Hanh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is Hanh's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is Hanh's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is a child of Hanh"
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "Jie is Hanh's child and Hanh is an elder in the family."
+  }
+]

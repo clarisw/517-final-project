@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is the child of Huong."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is the child of Huong"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is the child of Huong"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is the child of Huong"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien and Huong are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is Huong's father."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is Huong's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is Huong's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is the child of Huong"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is the child of Huong"
+  }
+]

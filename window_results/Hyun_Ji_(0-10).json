@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is the child of Ji"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ji is Hyun's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is Ji's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ji is Hyun's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ji is Hyun's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ji is Hyun's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is Ji's child."
+  },
+  {
+    "type": "Friends",
+    "explanation": "The two people are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun and Ji are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ji is Hyun's parent."
+  }
+]

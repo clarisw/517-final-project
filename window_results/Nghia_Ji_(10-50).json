@@ -1,0 +1,162 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Ji is the child of Nghia"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is Ji's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is Ji's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is Ji's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is Ji's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is the child of Ji"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is the child of Ji"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ji is the child of Nghia"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ji is the parent of Nghia"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ji is the parent of Nghia"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation is about a romantic relationship between Nghia and Ji."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ji is the child of Nghia"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The two people are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is Ji's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ji is the parent of Nghia"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is the child of Ji"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ji is Nghia's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is the child of Ji"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is the child of Ji"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Nghia and Ji is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is a child of Ji"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is a child of Ji"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ji is Nghia's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is a child of Ji"
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "Ji is the elder of the family and Nghia is the child of the family."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is a child of Ji"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is a child of Ji"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Because I asked you. And..."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ji is the parent of Nghia"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is the child of Ji"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is Ji's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ji is the child of Nghia"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ji is the parent of Nghia"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ji is the parent of Nghia"
+  },
+  {
+    "type": "Friends",
+    "explanation": "Both are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ji is a child of Nghia"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is Ji's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ji is a child of Nghia"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The two people are lovers."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Both are friends."
+  }
+]

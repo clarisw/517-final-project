@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is the child of Thien."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is the child of Thien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is the child of Thien."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is the child of Sung."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is the child of Thien."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is the child of Thien."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is a child of Thien."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is the child of Thien."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is the child of Thien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is the child of Thien"
+  }
+]

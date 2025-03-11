@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is the child of Sung."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is a child of Sung"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is the child of Sung"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is Hyun's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is Hyun's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is the child of Sung."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is the child of Sung."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is Hyun's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun and Sung are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is the child of Sung"
+  }
+]

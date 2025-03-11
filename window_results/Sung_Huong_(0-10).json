@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is the child of Huong."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is Huong's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is the child of Huong"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is Huong's parent."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Sung and Huong is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is Huong's father."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Sung and Huong is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is Huong's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is the child of Huong"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Sung and Huong are lovers."
+  }
+]

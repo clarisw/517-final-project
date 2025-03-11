@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of Eun."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of Eun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of Eun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of Eun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An and Eun are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of Eun."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An and Eun are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of Eun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An and Eun are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of Eun"
+  }
+]

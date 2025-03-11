@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Dat is the child of Jun."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat is the child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat is the child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is Dat's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is Dat's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat is the child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is Dat's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is Dat's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat and Jun are siblings."
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "Jun is Dat's elder and Dat is Jun's child."
+  }
+]

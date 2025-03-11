@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is the child of Ling"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is the child of Ling"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is the child of Ling"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is the child of Ling"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun and Ling are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is the child of Ling"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is the child of Ling"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun and Ling are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun and Ling are siblings."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Jun and Ling are lovers."
+  }
+]

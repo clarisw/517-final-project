@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is the child of Quoc."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is the child of Quoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is the child of Quoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is the child of Quoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "The relationship between Ngoc and Quoc is that of a child and parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is the child of Quoc."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is the child of Quoc."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is the child of Quoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is the child of Quoc."
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "Ngoc is a child of Quoc"
+  }
+]

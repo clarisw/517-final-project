@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Eun is a child of Xiao"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Eun is the child of Xiao"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Eun is the child of Xiao"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Eun is the child of Xiao"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Eun and Xiao are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Eun is the parent of Xiao"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Eun is a child of Xiao"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Eun is Xiao's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Eun is a child of Xiao"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Eun is Xiao's child."
+  }
+]

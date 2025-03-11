@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Huong is a child of In."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Huong is the child of In"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Huong is the child of In"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Huong is the child of In."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Huong is the child of In."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Huong is the child of In."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Huong is the child of In."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Huong is the child of In."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Huong is a child of In."
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "Huong is a child of In"
+  }
+]

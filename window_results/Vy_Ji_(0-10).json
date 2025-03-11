@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Vy is a child of Ji"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Vy is the child of Ji"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Vy is Ji's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ji is the child of Vy"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ji is the parent of Vy."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Vy is Ji's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Vy is Ji's child."
+  },
+  {
+    "type": "Friends",
+    "explanation": "The two people are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Vy is Ji's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ji is Vy's parent."
+  }
+]

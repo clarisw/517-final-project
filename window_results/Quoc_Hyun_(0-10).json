@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is the child of Hyun."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is the child of Hyun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is the child of Hyun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is Hyun's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc and Hyun are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is Hyun's father."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is Hyun's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is Hyun's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is the child of Hyun."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is Hyun's child."
+  }
+]

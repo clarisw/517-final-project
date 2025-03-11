@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is a child of Jie."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is the child of Jie"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is the child of Jie"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is the child of Wen"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is a child of Jie."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is the child of Jie."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is a child of Jie"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is Wen's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wen and Jie are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is a child of Jie"
+  }
+]

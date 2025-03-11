@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is a child of Su."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is the child of Su"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is the child of Su"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is the child of Su."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is a child of Su."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is the child of Su."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is the child of Su."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is the child of Su."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is the child of Su."
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "Sang is a child of Su"
+  }
+]

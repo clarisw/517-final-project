@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is the child of Eun."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is the child of Eun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is the child of Eun."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is the child of Eun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie and Eun are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is the child of Eun."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is the child of Eun."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is Eun's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie and Eun are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is the child of Eun"
+  }
+]

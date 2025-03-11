@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is a child of Diem"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is the child of Diem"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is the child of Diem"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is the child of Diem"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is the child of Diem"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is the child of Diem"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is the child of Diem"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is the child of Diem"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie and Diem are siblings."
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "Jie is a child of Diem"
+  }
+]

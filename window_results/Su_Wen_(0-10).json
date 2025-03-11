@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Su is a child of Wen."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Su is the child of Wen"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Su is the child of Wen"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Su and Wen are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Su and Wen are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Su is the child of Wen"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Su and Wen are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Su and Wen are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Su and Wen are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Su is a child of Wen"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is the child of Trinh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is the child of Trinh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is the child of Trinh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is the child of Trinh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc and Trinh are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is the child of Trinh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is the child of Trinh."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is Trinh's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is the child of Trinh"
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "Quoc is Trinh's child and Trinh is Quoc's other family elder."
+  }
+]

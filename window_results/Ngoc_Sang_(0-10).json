@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is a child of Sang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is the child of Sang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is the child of Sang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is the child of Ngoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is the child of Sang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is the child of Sang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is the child of Sang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is the child of Sang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is the child of Sang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is the child of Sang"
+  }
+]

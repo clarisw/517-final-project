@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Hoang is the child of Quyen"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hoang is the child of Quyen"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hoang is the child of Quyen"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is Hoang's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hoang is the child of Quyen."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hoang is the child of Quyen."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Hoang and Quyen is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is Hoang's child."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation is about love and romance."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Hoang and Quyen is about love and romance."
+  }
+]

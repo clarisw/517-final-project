@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "In is the child of Hyun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "In is the child of Hyun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "In is the child of Hyun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "In and Hyun are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "In and Hyun are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "In is Hyun's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "In and Hyun are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "In and Hyun are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "In and Hyun are siblings."
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "In and Hyun are siblings."
+  }
+]

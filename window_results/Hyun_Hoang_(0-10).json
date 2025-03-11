@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is a child of Hoang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is a child of Hoang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is the child of Hoang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is the child of Hoang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is the child of Hoang."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is the child of Hoang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is Hoang's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun and Hoang are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is a child of Hoang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is Hoang's child."
+  }
+]

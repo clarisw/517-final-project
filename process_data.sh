@@ -14,7 +14,10 @@ end_idx=10
 # start_idx=50
 # end_idx=100
 
+race="Asian"
+
 CUDA_VISIBLE_DEVICES=0 PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True python process_data.py \
     --model-name $model_name \
     --start-idx $start_idx \
-    --end-idx $end_idx
+    --end-idx $end_idx \
+    --race $race

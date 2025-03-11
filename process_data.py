@@ -23,6 +23,7 @@ def get_opts():
     parser.add_argument("--start-idx", type=int, help="Start Index")
     parser.add_argument("--end-idx", type=int, help="Ending Index")
     parser.add_argument("--model-name", type=str, help="Model Name from HF")
+    parser.add_argument("--race", type=str, help="Race Category of Data")
 
     return parser.parse_args()
 
@@ -41,7 +42,7 @@ if __name__ == "__main__":
     y = np.where(filtered_df["relation"].isin(["Spouse", "Lovers", "Courtship"]), 1, 0)
 
     name_df = pd.read_csv("names.csv")
-    name_df = name_df[name_df["Race"] == "Asian"]
+    name_df = name_df[name_df["Race"] == opts.race]
 
     tokenizer = AutoTokenizer.from_pretrained(opts.model_name, token=True)
     model = AutoModelForCausalLM.from_pretrained(

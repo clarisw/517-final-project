@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "In is a child of Quoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "In is the child of Quoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "In is the child of Quoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "In is the child of Quoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "In and Quoc are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "In is the child of Quoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "In is the child of Quoc"
+  },
+  {
+    "type": "Friends",
+    "explanation": "The two people are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "In and Quoc are siblings."
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "In is a child of Quoc"
+  }
+]

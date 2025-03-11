@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is the child of Thuan."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is the child of Thuan"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is the child of Thuan"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is Trinh's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is Trinh's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is the parent of Thuan."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child of Thuan"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is Trinh's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is the child of Thuan."
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "Trinh is a child of Thuan"
+  }
+]

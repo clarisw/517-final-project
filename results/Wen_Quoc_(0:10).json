@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is a child of Quoc."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is the child of Quoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is the child of Quoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is the child of Wen"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is the parent of Wen."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is the parent of Quoc."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is Quoc's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is Wen's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is the child of Quoc"
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "Quoc is Wen's elder and is a family member."
+  }
+]

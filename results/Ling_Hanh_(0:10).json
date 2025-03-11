@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is a child of Hanh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is the child of Hanh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is the child of Hanh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is the child of Hanh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is the child of Hanh."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is the child of Hanh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is a child of Hanh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is Hanh's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is the child of Hanh."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is the child of Hanh"
+  }
+]

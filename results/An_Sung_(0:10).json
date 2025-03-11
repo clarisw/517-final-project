@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of Sung."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of Sung"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of Sung"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is An's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of Sung."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of Sung."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of Sung."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of Sung"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An and Sung are siblings."
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "An is a child of Sung"
+  }
+]

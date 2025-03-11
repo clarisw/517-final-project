@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is the child of Sung."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is the child of Sung"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is the child of Sung."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is the child of Sang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is the parent of Sang."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is the child of Sung."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is the child of Sung."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is the child of Sang."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is the child of Sung."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is Sang's parent."
+  }
+]

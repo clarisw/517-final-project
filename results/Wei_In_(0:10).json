@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "The relationship between Wei and In is that of a child and a parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Both Wei and In are parents of Junior."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "The relationship between Wei and In is that of a child and a parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "In is the child of Wei"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "In is Wei's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Both Wei and In are young and Wei is older than In.  In is a child of Wei."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "The conversation between Wei and In is that of a child and parent. Wei is the child and In is the parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "In is Wei's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "The relationship between Wei and In is that of a child and a parent."
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "In is Wei's parent or grandparent."
+  }
+]

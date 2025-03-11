@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is Dat's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is the child of Dat"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is Dat's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is Dat's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is Dat's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is Dat's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is Dat's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is Dat's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is Dat's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is Dat's child."
+  }
+]

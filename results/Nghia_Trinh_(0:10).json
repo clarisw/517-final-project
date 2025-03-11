@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is the child of Trinh."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is the child of Trinh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is the child of Trinh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is the child of Trinh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "The conversation between Nghia and Trinh is between a child and a parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is the child of Trinh."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Both Nghia and Trinh are children of the same parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "The conversation is between a child and a parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is the child of Trinh"
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "Nghia is Trinh's child and Trinh is an elder in Nghia's family."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of Vy."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of Vy"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of Vy"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of Vy"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An and Vy are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of Vy."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An and Vy are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of Vy"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An and Vy are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of Vy"
+  }
+]

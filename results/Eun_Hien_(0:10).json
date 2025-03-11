@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Eun is a child of Hien."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Eun is the child of Hien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Eun is the child of Hien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Eun is the child of Hien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Eun is the child of Hien."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Eun is the child of Hien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Eun is a child of Hien."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Eun is a child of Hien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Eun is a child of Hien"
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "Eun is a child of Hien"
+  }
+]

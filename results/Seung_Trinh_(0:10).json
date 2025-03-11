@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Seung is the child of Trinh."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Seung is the child of Trinh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Seung is the child of Trinh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Seung is the child of Trinh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "The conversation between Seung and Trinh is that of a child and parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Seung is the parent of Trinh."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Seung is the child of Trinh."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "The conversation is between a child and a parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Seung is the child of Trinh."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Seung is the child of Trinh"
+  }
+]

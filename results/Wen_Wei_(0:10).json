@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is a child of Wei"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is the child of Wei"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is the child of Wei"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is the child of Wei"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "The relationship between Wen and Wei is that of a child and parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is the child of Wei"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is a child of Wei"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is Wei's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is the child of Wei"
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "Wen is Wei's child and Wei is an elder in Wen's family."
+  }
+]

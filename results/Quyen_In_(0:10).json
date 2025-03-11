@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is the child of In."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is the child of In"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is the child of In."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is the child of In."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is the child of In."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is the child of In."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is the child of In."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is the child of In."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is the child of In."
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "Quyen is In's child and In is Quyen's other family elder."
+  }
+]

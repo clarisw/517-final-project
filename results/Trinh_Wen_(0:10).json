@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is the child of Wen."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is the child of Wen"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is the child of Wen."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is the child of Wen"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child of Wen."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is the parent of Wen."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child of Wen."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child of Wen"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child of Wen."
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "Trinh is a child of Wen"
+  }
+]

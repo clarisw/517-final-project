@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is a child of Quoc."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is a child of Quoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is the child of Quoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is the child of Quoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is the child of Quoc."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is the child of Quoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is a child of Quoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is a child of Quoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is the child of Quoc"
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "Ling is Quoc's child and Quoc is Ling's other family elder."
+  }
+]

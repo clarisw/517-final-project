@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is the child of Quyen"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is the child of Quyen"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is the child of Quyen"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is the child of Quyen"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is Ngoc's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is the child of Quyen."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is the child of Quyen"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is Quyen's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is the child of Quyen"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is the child of Quyen"
+  }
+]

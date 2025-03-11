@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of Thuan"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of Thuan"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of Thuan"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is An's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is An's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of Thuan"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of Thuan"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is An's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An and Thuan are siblings."
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "Thuan is An's elder and An is Thuan's child."
+  }
+]

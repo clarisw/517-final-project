@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is Sang's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is the child of Sang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is the child of Sang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is the child of Quyen"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is Sang's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is the child of Sang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is Sang's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is Sang's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is Sang's child."
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "Quyen is Sang's child and Sang is an elder in Quyen's family."
+  }
+]

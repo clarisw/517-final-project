@@ -1,0 +1,162 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Dat is a child of Seung."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Seung is Dat's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Seung is Dat's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Seung is Dat's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Seung is Dat's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Seung is Dat's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Seung is a child of Dat."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Seung is Dat's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "The conversation between Seung and Dat is a conversation between a child and a parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat is Seung's parent."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation is between two lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat is the child of Seung."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation is about a romantic relationship between Seung and Dat."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat is Seung's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "The relationship between Seung and Dat is that of a child and a parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Seung is a child of Dat."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Seung is Dat's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Seung is Dat's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Because Seung is younger than Dat, they are most likely siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat is the child of Seung."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Seung is a child of Dat."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Seung is a child of Dat."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "The relationship between Seung and Dat is that of a child and a parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Seung is a child of Dat."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Seung is Dat's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Seung is a child of Dat."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Seung is a child of Dat."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Because I asked you. And..."
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "The relationship between Seung and Dat is that of a child and an elder. The reason for this is that Dat is older than Seung and is also a family elder. This is evident from the fact that Seung refers to Dat as 'Dat' and not by his name. This is a sign of respect and deference to the elder."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Seung is a child of Dat."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Seung is a child of Dat."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat is the child of Seung."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "The conversation between Seung and Dat is that of a child and a parent. The child is Dat and the parent is Seung."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat is Seung's parent."
+  },
+  {
+    "type": "Friends",
+    "explanation": "The two people are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat is a child of Seung."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Seung is Dat's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat is a child of Seung."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Seung and Dat is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat is Seung's parent."
+  }
+]

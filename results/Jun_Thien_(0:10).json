@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is the child of Thien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is the child of Thien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is the child of Thien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is the child of Thien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun and Thien are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is the child of Thien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is the child of Thien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is the child of Thien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun and Thien are siblings."
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "Jun is a child of Thien"
+  }
+]

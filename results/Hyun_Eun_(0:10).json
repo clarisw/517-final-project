@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is the child of Eun."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is the child of Eun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is the child of Eun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Eun is Hyun's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "The relationship between Hyun and Eun is that of a child and parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is the child of Eun."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is the child of Eun."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Eun is Hyun's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun and Eun are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is the child of Eun."
+  }
+]

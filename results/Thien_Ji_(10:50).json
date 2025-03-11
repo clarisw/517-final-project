@@ -1,0 +1,162 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Ji is the child of Thien."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is Ji's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is Ji's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is Ji's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is Ji's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is Ji's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is Ji's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is Ji's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ji is the parent of Thien."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is Ji's child."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation is between two lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ji is the child of Thien"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Thien and Ji are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is Ji's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ji is Ji's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is the child of Ji"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is Ji's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is the child of Ji"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is the child of Ji"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Thien and Ji are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is a child of Ji"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is a child of Ji"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is a child of Ji"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Thien and Ji are in a relationship."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is a child of Ji"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is a child of Ji"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is a child of Ji"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is Ji's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is Ji's child."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Thien and Ji are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is Ji's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ji is Ji's parent"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ji is the parent of Thien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ji is the parent of Thien"
+  },
+  {
+    "type": "Friends",
+    "explanation": "Thien and Ji are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is Ji's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is Ji's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ji is a child of Thien"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Thien and Ji are lovers."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Thien and Ji are friends."
+  }
+]

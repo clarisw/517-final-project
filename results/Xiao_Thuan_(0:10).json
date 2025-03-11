@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is a child of Thuan"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is the child of Thuan"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is the child of Thuan"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is the parent of Xiao"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is the child of Thuan."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is the child of Thuan"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is a child of Thuan"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is a child of Thuan"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is the child of Thuan"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is a child of Thuan"
+  }
+]

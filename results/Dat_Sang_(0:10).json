@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Dat is a child of Sang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat is the child of Sang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat is the child of Sang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is Dat's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is Dat's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat is the child of Sang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat and Sang are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is Dat's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat is the child of Sang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat is a child of Sang"
+  }
+]

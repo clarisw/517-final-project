@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is the child of Sung."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is the child of Sung"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is the child of Sung."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is the child of Sung"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is the child of Sung."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is the parent of Sung."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child of Sung"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child of Sung"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child of Sung."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Trinh and Sung are lovers."
+  }
+]

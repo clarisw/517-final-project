@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Huong is the child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Huong is the child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Huong is the child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is Huong's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is Huong's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Huong is the child of Jun"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Huong and Jun is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is Huong's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Huong is the child of Jun."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Huong is Jun's child."
+  }
+]

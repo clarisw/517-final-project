@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Seung is the child of Hyun."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Seung is the child of Hyun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Seung is the child of Hyun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "The relationship between Seung and Hyun is that of a child and a parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "The relationship between Seung and Hyun is that of a child and parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Seung is Hyun's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Seung is Hyun's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "The conversation is between a child and a parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Seung is the child of Hyun."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Seung is Hyun's child."
+  }
+]

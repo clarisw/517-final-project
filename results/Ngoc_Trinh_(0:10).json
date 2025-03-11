@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is the child of Trinh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is the child of Trinh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is the child of Trinh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is the child of Trinh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "The conversation between Ngoc and Trinh is between a child and a parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is the child of Trinh."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is the child of Trinh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is a child of Trinh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is the child of Trinh"
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "Ngoc is a child of Trinh"
+  }
+]

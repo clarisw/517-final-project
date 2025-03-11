@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of Thien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of Thien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of Thien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is An's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is An's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of Thien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of Thien."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is An's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of Thien."
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "Thien is An's elder and An is Thien's child."
+  }
+]

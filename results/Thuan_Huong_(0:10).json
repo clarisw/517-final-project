@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is the child of Huong"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is Huong's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is the child of Huong"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is Huong's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan and Huong are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is Huong's father."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is Huong's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is Huong's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is the child of Huong"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is Huong's child."
+  }
+]

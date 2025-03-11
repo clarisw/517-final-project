@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is the child of Eun."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is the child of Eun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is the child of Eun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is the child of Eun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh and Eun are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is the child of Eun."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is the child of Eun."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is Eun's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh and Eun are siblings."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Hanh and Eun is that of lovers."
+  }
+]

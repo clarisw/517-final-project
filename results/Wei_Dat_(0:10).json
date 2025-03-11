@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "The relationship between Wei and Dat is that of a child and a parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wei is the child of Dat."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "The relationship between Wei and Dat is that of a child and a parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat is Wei's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat is Wei's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat is Wei's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "The relationship between Wei and Dat is that of a child and a parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat is Wei's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat is Wei's parent."
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "Dat is Wei's elder and Wei is Dat's child."
+  }
+]

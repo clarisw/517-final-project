@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Seung is the child of Dat."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Seung is the child of Dat."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Seung is Dat's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Seung is Dat's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat is the parent of Seung."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Seung is Dat's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Seung is Dat's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat is the child of Seung."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Seung is Dat's child."
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "Seung is Dat's child and Dat is an elder in Seung's family."
+  }
+]

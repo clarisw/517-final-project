@@ -1,0 +1,162 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc and Ling are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is the child of Ling"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is the child of Ling"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is the child of Ling"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is the child of Ling."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Quoc and Ling are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is the child of Ling"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Quoc and Ling is a conversation between lovers."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Quoc and Ling is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is the child of Ling"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Quoc and Ling is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is Quoc's child."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Quoc and Ling are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is the child of Ling"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is Quoc's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is the child of Ling"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is the child of Ling"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Quoc and Ling are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is the child of Ling"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Quoc and Ling are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is a child of Ling"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is the child of Ling"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is a child of Ling"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation is between two lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is a child of Ling"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Quoc and Ling are lovers."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Quoc and Ling are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Because I asked you. And..."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is a child of Ling"
+  },
+  {
+    "type": "Friends",
+    "explanation": "Quoc and Ling are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is the child of Ling."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is Quoc's child."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Quoc and Ling is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is the child of Ling"
+  },
+  {
+    "type": "Friends",
+    "explanation": "Quoc and Ling are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is the child of Ling"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is a child of Ling"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is the child of Ling"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Quoc and Ling is a conversation between lovers."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Quoc and Ling are friends."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is a child of Dat."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is the child of Dat."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is Dat's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is Dat's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is Dat's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is Dat's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is Dat's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is Dat's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is Dat's child."
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "Ling is Dat's child and Dat is Ling's other family elder."
+  }
+]

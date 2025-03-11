@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is the child of Wei"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is the child of Wei"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is the child of Wei"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is the child of Wei"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is Wei's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is Wei's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is Wei's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "The conversation between Trinh and Wei is between a child and a parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is Wei's child."
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "Trinh is Wei's child and Wei is an elder in the family."
+  }
+]

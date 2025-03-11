@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Hoang is the child of In."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hoang is the child of In"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hoang is the child of In."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hoang is the child of In."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hoang is the child of In."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hoang is the child of In."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hoang is the child of In."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hoang is the child of In"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hoang is the child of In."
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "Hoang is In's child and In is Hoang's other family elder."
+  }
+]

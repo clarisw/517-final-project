@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is a child of Diem"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is the child of Diem"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is the child of Diem"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Diem is the child of Ling."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is the child of Diem."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is the child of Diem"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is a child of Diem"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Diem is Ling's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is the child of Diem"
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "Ling is a child of Diem"
+  }
+]

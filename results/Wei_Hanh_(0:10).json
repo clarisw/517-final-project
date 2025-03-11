@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "The relationship between Wei and Hanh is that of a child and parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Both Wei and Hanh are parents of Junior."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "The relationship between Wei and Hanh is that of a child and a parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is Wei's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is Wei's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is Wei's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is Wei's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is Wei's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "The conversation between Wei and Hanh is between a child and a parent."
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "Hanh is Wei's elder and Wei is Hanh's child."
+  }
+]

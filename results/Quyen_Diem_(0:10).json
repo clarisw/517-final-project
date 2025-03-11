@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is the child of Diem."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is the child of Diem"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is the child of Diem."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is the child of Diem"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is the child of Diem."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is the child of Diem"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is the child of Diem."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is the child of Diem."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is the child of Diem."
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "Quyen is Diem's child and Diem is Quyen's other family elder."
+  }
+]

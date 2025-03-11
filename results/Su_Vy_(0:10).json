@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Su is a child of Vy"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Su is the child of Vy"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Su is the child of Vy"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Su and Vy are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Su and Vy are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Su is the child of Vy"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Su and Vy are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Su and Vy are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Su and Vy are siblings."
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "Su and Vy are siblings."
+  }
+]

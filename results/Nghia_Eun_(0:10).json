@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is the child of Eun."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is the child of Eun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is the child of Eun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Eun is the child of Nghia"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Both Nghia and Eun are children of the same parents."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is the child of Eun."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is Eun's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Eun is Nghia's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is the child of Eun."
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "Nghia is Eun's child and Eun is an elder in the family."
+  }
+]

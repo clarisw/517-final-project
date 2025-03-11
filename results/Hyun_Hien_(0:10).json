@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is the child of Hien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is the child of Hien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is the child of Hien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is the child of Hien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun and Hien are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is the child of Hien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is the child of Hien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is Hyun's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun and Hien are siblings."
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "Hyun is the child of Hien's other family elder."
+  }
+]

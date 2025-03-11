@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of Quyen."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of Quyen"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of Quyen"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is An's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is An's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of Quyen"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of Quyen."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is An's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An and Quyen are siblings."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation is between two lovers."
+  }
+]

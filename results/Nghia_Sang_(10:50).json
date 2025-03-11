@@ -1,0 +1,162 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is Nghia's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is the child of Sang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is Sang's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is Sang's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is Sang's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is Sang's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is the child of Sang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is Sang's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is the parent of Nghia"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is Sang's child."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation is between two lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is the child of Nghia"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Based on the conversation, it is inferred that Nghia and Sang are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is Sang's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is the parent of Nghia"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is the child of Sang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is Sang's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is Sang's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is a child of Sang"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Nghia and Sang is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is a child of Sang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is a child of Sang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is a child of Sang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is Sang's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is a child of Sang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is Sang's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is Sang's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Because I asked you. And..."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is a child of Sang"
+  },
+  {
+    "type": "Friends",
+    "explanation": "Both are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is Sang's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is the child of Nghia"
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "Sang is Sang's grandparent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is Sang's child."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Both are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is a child of Nghia"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is Sang's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is Sang's parent."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Nghia and Sang is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is the child of Sang"
+  }
+]

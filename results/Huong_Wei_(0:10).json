@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Huong is a child of Wei"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Huong is the child of Wei"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Huong is the child of Wei"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Huong is the child of Wei"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Huong is Wei's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Huong is Wei's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Huong is Wei's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Huong is Wei's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Huong is the child of Wei"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Huong is Wei's child."
+  }
+]

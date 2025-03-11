@@ -1,0 +1,162 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is Wei's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is the child of Wei"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is the child of Wei"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is the child of Wei"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is Wei's child."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Quoc and Wei are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is the child of Wei"
+  },
+  {
+    "type": "Friends",
+    "explanation": "Quoc and Wei are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is Wei's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is Wei's child."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation is between two lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is Wei's child."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The two people are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is Wei's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is Wei's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is the child of Wei"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is Wei's child."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Quoc and Wei are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is the child of Wei"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Quoc and Wei are lovers."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Quoc and Wei are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is a child of Wei"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is Wei's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is a child of Wei"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is Wei's child."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Quoc and Wei are friends."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Quoc and Wei are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is Wei's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is a child of Wei"
+  },
+  {
+    "type": "Friends",
+    "explanation": "Quoc and Wei are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is the child of Wei"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is Wei's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "The conversation between Quoc and Wei is that of a child and parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is Wei's child."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Quoc and Wei are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is Wei's parent."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Quoc and Wei are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is Wei's parent."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Quoc and Wei are lovers."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Quoc and Wei are friends."
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is Dat's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat is a child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat is the child of Jun."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat and Jun are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat and Jun are siblings."
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "Dat is a child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat and Jun are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is Dat's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is Dat's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is Dat's parent."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Dat and Jun is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is Dat's parent."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Dat and Jun is about a romantic relationship."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is Dat's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is Dat's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is Dat's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat and Jun are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat is a child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat and Jun are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat and Jun are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat is a child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is Dat's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is Dat's parent."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation is between two lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat is a child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat is a child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat is a child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is Dat's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat is a child of Jun"
+  },
+  {
+    "type": "Friends",
+    "explanation": "The two people are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat is a child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is Dat's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is Dat's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is Dat's parent."
+  },
+  {
+    "type": "Friends",
+    "explanation": "The two people are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat and Jun are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat is a child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat and Jun are siblings."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Dat and Jun is a conversation between lovers."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Dat and Jun are friends."
+  }
+]

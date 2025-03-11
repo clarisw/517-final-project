@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Eun is a child of Trinh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Eun is a child of Trinh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Eun is the child of Trinh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Eun is the child of Trinh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "The conversation between Eun and Trinh is between a child and a parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Eun is the child of Trinh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Eun is a child of Trinh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Eun is a child of Trinh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Eun is a child of Trinh"
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "Eun is a child of Trinh"
+  }
+]

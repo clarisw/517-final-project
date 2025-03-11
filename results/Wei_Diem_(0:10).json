@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Diem is Wei's mother."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Diem is Wei's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "The relationship between Wei and Diem is that of a child and parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Diem is the child of Wei"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Diem is Wei's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Diem is Wei's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Diem is Wei's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Diem is Wei's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Diem is Wei's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Diem is Wei's parent."
+  }
+]

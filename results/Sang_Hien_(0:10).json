@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is the child of Hien."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is the child of Hien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is the child of Hien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is the child of Hien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is the child of Hien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is the child of Hien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is the child of Hien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is Sang's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is the child of Hien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is the child of Hien"
+  }
+]

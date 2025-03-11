@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is the child of Hyun."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is the child of Hyun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is the child of Hyun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is the child of Hyun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is the child of Hyun."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is Hyun's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is Hyun's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is a child of Hyun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is the child of Hyun."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is the child of Hyun"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Dat is a child of Khanh."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat is the child of Khanh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat is the child of Khanh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat is the child of Khanh."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat and Khanh are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat is the child of Khanh."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat is the child of Khanh."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat and Khanh are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat is the child of Khanh."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat is the child of Khanh"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Dat is a child of Ji"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat is the child of Ji"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat is the child of Ji"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ji is Dat's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ji is Dat's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ji is Dat's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ji is Dat's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ji is Dat's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat and Ji are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ji is Dat's parent."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is a child of Su."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is the child of Su."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is the child of Su."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is the child of Su"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is the child of Su."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is the child of Su."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is a child of Su."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is Su's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is a child of Su."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is a child of Su"
+  }
+]

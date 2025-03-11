@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "In is a child of Wei"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "In is the child of Wei"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "In is the child of Wei"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "In and Wei are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "In and Wei are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "In is the child of Wei"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "In and Wei are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "In and Wei are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "In and Wei are siblings."
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "In is Wei's child or other family elder."
+  }
+]

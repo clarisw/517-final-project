@@ -1,0 +1,162 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is the child of Thuan."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is Sang's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is Sang's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is Sang's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is Sang's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is Sang's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is Sang's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is Sang's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is Sang's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is Sang's child."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Thuan and Sang is about their relationship. They are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is Sang's child."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Thuan and Sang are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is Sang's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is the parent of Thuan."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is the child of Sang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is Sang's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is Sang's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is a child of Sang"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Thuan and Sang are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is a child of Sang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is a child of Sang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is Sang's child."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Thuan and Sang are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is Sang's child."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Thuan and Sang are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is Sang's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is Sang's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is Sang's child."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Thuan and Sang are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is Sang's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is the child of Thuan"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is Sang's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is Sang's child."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Thuan and Sang are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is the child of Sang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is Sang's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is Sang's parent."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Thuan and Sang are lovers."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Thuan and Sang are friends."
+  }
+]

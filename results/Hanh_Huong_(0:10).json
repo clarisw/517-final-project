@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is the child of Huong."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is the child of Huong"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is the child of Huong"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is the child of Huong"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh and Huong are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is the child of Huong."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Hanh and Huong is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh and Huong are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh and Huong are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is the child of Huong"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is the child of Trinh."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is the child of Trinh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is the child of Trinh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is the child of Trinh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "The conversation between Hyun and Trinh is that of a child and parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is the child of Trinh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is the child of Trinh."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "The conversation is between a child and a parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun and Trinh are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is the child of Trinh"
+  }
+]

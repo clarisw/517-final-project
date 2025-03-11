@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is a child of Hoang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is the child of Hoang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is the child of Hoang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is the child of Hoang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is the child of Hoang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is the child of Hoang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is Hoang's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is a child of Hoang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is a child of Hoang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is Hoang's child."
+  }
+]

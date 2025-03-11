@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Su is a child of Xiao"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Su is the child of Xiao"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Su is the child of Xiao"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Su is the child of Xiao"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Su and Xiao are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Su is the child of Xiao"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Su and Xiao are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Su and Xiao are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Su and Xiao are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Su is the child of Xiao"
+  }
+]

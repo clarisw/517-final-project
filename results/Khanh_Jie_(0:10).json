@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Khanh is the child of Jie."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Khanh is the child of Jie"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Khanh is the child of Jie"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is the child of Khanh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is the parent of Khanh."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Khanh is the child of Jie."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Khanh is the child of Jie."
+  },
+  {
+    "type": "Friends",
+    "explanation": "The two people are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Khanh is the child of Jie."
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "Jie is Khanh's elder and is a family member."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "The relationship between Wei and Sang is that of a child and a parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Both Wei and Sang are parents of the same child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "The relationship between Wei and Sang is that of a child and a parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is Wei's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is Wei's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is Wei's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is Wei's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is the child of Wei"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Both Wei and Sang are in their 20s and are in a relationship that is not romantic. Wei is a child of Sang."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is Wei's parent"
+  }
+]

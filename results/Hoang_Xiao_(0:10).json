@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Hoang is the child of Xiao"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hoang is the child of Xiao"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hoang is the child of Xiao"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hoang is the child of Xiao"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hoang and Xiao are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hoang is the parent of Xiao"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hoang is the child of Xiao"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hoang is Xiao's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hoang is the child of Xiao"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Based on the conversation, Hoang and Xiao are lovers."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Dat is the child of An."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat is the child of An."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat is the child of An."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat is the child of An."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat and An are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat is the child of An."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat is the child of An."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat and An are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat is the child of An."
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "Dat is a child of An."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Su is a child of Wei"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Su is the child of Wei"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Su is the child of Wei"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Su and Wei are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Su and Wei are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Su is the child of Wei"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Su and Wei are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Su and Wei are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Su and Wei are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Su is Wei's child."
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is the child of Wen."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Based on the conversation, it is inferred that Sung and Wen are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is the child of Wen."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is the child of Wen."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is the child of Wen."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is a child of Wen"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is a child of Wen."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Sung and Wen is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is a child of Wen."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is a child of Wen."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is a child of Wen."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is the child of Wen"
+  },
+  {
+    "type": "Friends",
+    "explanation": "Sung and Wen are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is a child of Wen."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is the child of Wen"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation is about a romantic relationship between Sung and Wen."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Sung and Wen is that of lovers.  They are in a relationship and are in love with each other."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Sung and Wen are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is a child of Wen"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Both are in love with each other."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Sung and Wen are lovers."
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "Sung is a child of Wen."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung and Wen are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is a child of Wen"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung and Wen are siblings."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Both Sung and Wen are in love with each other."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Both are obsessed with each other."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is a child of Wen"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is the parent of Wen"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Sung and Wen is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is the child of Wen"
+  },
+  {
+    "type": "Friends",
+    "explanation": "Sung and Wen are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is a child of Wen"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Sung and Wen is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is a child of Wen"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is the child of Wen"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is Wen's parent."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The two people are lovers."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Sung and Wen is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is a child of Wen"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is the child of Wen."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is a child of Wen"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is Wen's parent."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Sung and Wen are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is Wen's child."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Sung and Wen are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is a child of Wen"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is a child of Wen."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Sung and Wen are friends."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Sung and Wen is a conversation between lovers."
+  }
+]

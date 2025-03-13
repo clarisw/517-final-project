@@ -1,0 +1,162 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "In is the child of Wen."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is a child and In is a parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is the child of In."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is the child of In"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is the child of In."
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "Wen is a child of In"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is the child of In."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is a child of In"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is a child of In"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is a child of In"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation is between two lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is the child of In"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation is between two lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is a child of In"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is a child of In"
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "Wen is a child of In"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is the child of In."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is a child of In"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is a child of In"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Wen and In is that of lovers. They are in a relationship and are in love with each other."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is a child of In"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is a child of In."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is a child of In."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is a child of In"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is a child of In"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is a child of In"
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "Wen is a child of In"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Because I asked you. And..."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is a child of In"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is a child of In"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is a child of In"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "In is the child of Wen"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "In is the parent of Wen"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is the child of In"
+  },
+  {
+    "type": "Friends",
+    "explanation": "Both are friends"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is the child of In"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is a child of In"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is the child of In."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Wen and In is that of lovers. They are in a relationship where they are in love with each other."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is the child of In."
+  }
+]

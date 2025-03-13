@@ -1,0 +1,162 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Hien and Ngoc are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is the child of Ngoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is Ngoc's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is the child of Ngoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is the child of Ngoc."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is the child of Ngoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is the child of Ngoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien and Ngoc are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is a child of Ngoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is a child of Ngoc"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Hien and Ngoc is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is Ngoc's child."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Based on the conversation, it is inferred that Hien and Ngoc are lovers."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation is between two lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is a child of Ngoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is the child of Ngoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is the child of Ngoc"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Both are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is the child of Ngoc"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Hien and Ngoc is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is a child of Ngoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is a child of Ngoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is a child of Ngoc"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The two people are in a romantic relationship."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is a child of Ngoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is a child of Ngoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is a child of Ngoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Because I asked you. And..."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is a child of Ngoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is a child of Ngoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is the child of Ngoc."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is Ngoc's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "The conversation between Hien and Ngoc is between a child and a parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is the child of Ngoc"
+  },
+  {
+    "type": "Friends",
+    "explanation": "Both are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is the child of Ngoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is a child of Ngoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is the child of Ngoc"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Hien and Ngoc is a conversation between lovers."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Hien and Ngoc are friends."
+  }
+]

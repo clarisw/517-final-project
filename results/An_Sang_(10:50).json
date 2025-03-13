@@ -1,0 +1,162 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is An's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An and Sang are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An and Sang are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An and Sang are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An and Sang are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of Sang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An and Sang are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is An's parent"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is the parent of An."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is the parent of An."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between An and Sang is that of lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is the child of An."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation is between two lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is An's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is the parent of An."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of Sang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An and Sang are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An and Sang are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An and Sang are siblings."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between An and Sang is that of lovers. They are in a relationship and are in love with each other."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is a child of Sang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is a child of Sang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is An's parent."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation is between two lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of Sang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is a child of Sang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of Sang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Because I asked you. And..."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An and Sang are siblings."
+  },
+  {
+    "type": "Friends",
+    "explanation": "The two people are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of Sang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is the child of An."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is An's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is An's parent."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Both are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is a child of An."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is Sang's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is a child of An."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between An and Sang is that of lovers."
+  },
+  {
+    "type": "Friends",
+    "explanation": "The two people are friends."
+  }
+]

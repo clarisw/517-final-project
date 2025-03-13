@@ -1,0 +1,162 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is Hanh's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is the child of Thuan"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is the child of Thuan."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is the child of Thuan"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is the child of Thuan."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is the child of Thuan."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is the child of Thuan."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh and Thuan are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is a child of Thuan"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is the child of Thuan"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation is between two lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is the child of Thuan"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Hanh and Thuan is about a romantic relationship between Hanh and Thuan."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is a child of Thuan"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is Hanh's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is the child of Thuan"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh and Thuan are siblings."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The two people are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is a child of Thuan"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Hanh and Thuan is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is a child of Thuan"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is a child of Thuan."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is a child of Thuan."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Hanh and Thuan is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is a child of Thuan"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is a child of Thuan."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is the child of Thuan"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is a child of Thuan"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is a child of Thuan"
+  },
+  {
+    "type": "Friends",
+    "explanation": "Hanh and Thuan are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is the child of Thuan."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is Hanh's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh and Thuan are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is the child of Thuan"
+  },
+  {
+    "type": "Friends",
+    "explanation": "Hanh and Thuan are friends."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Hanh and Thuan is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is a child of Thuan"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is the child of Thuan"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Hanh and Thuan is a conversation between lovers."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Hanh and Thuan are friends."
+  }
+]

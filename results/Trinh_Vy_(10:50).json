@@ -1,0 +1,162 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is Vy's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child and Vy is a parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is the child of Vy."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is the child of Vy"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is Vy's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is the child of Vy."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh and Vy are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh and Vy are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child of Vy"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is the child of Vy"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Trinh and Vy is about their relationship. They are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is Vy's parent."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Trinh and Vy are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is Vy's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child of Vy"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is the child of Vy"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh and Vy are siblings."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Trinh and Vy are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child of Vy"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Trinh and Vy are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child of Vy"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child of Vy"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child of Vy"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child of Vy"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child of Vy"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child of Vy."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child of Vy"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Because I asked you. And..."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Trinh and Vy are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child of Vy"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child of Vy"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child of Vy"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is Vy's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is the child of Vy"
+  },
+  {
+    "type": "Friends",
+    "explanation": "Trinh and Vy are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is the child of Vy"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child of Vy"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is the child of Vy"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Trinh and Vy are lovers."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Trinh and Vy are friends."
+  }
+]

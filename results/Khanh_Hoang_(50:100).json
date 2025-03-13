@@ -1,0 +1,202 @@
+[
+  {
+    "type": "Friends",
+    "explanation": "Both are friends."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Khanh and Hoang is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Khanh is Hoang's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hoang is the child of Khanh."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Khanh is Hoang's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Khanh is a child of Hoang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Khanh is a child of Hoang"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Khanh and Hoang is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Khanh is Hoang's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Khanh is a child of Hoang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Khanh is a child of Hoang"
+  },
+  {
+    "type": "Friends",
+    "explanation": "Both are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Khanh is a child of Hoang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Khanh is Hoang's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Khanh is a child of Hoang"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Based on the conversation, the two people are lovers."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The two people are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Khanh is a child and Hoang is a parent."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation is about a romantic relationship between Khanh and Hoang."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Both are in love with each other."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Based on the conversation, it is inferred that Khanh and Hoang are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Khanh is a child of Hoang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Khanh is a child of Hoang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Khanh is a child of Hoang"
+  },
+  {
+    "type": "Friends",
+    "explanation": "Both are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Khanh and Hoang are siblings."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Based on the conversation, it is inferred that the two people are in a relationship."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Khanh is a child of Hoang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Khanh is the parent of Hoang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Khanh is a child of Hoang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Khanh is the child of Hoang"
+  },
+  {
+    "type": "Friends",
+    "explanation": "Both are friends."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Both are friends."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Khanh and Hoang is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Khanh is a child of Hoang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Khanh is a child of Hoang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hoang is the child of Khanh."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The two people are lovers."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Khanh and Hoang is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Khanh is a child of Hoang"
+  },
+  {
+    "type": "Friends",
+    "explanation": "The two people are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Khanh is a child of Hoang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Khanh is a child of Hoang"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Based on the conversation, the two people are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Khanh is Hoang's child."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Both are friends."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The two people are in love with each other."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Khanh is a child of Hoang"
+  },
+  {
+    "type": "Friends",
+    "explanation": "The conversation between Khanh and Hoang is that of friends."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The two people are lovers."
+  }
+]

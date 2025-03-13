@@ -1,0 +1,202 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is a child of Dat."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Hien and Dat is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is Dat's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is Dat's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is Dat's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is a child of Dat"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is a child of Dat."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Hien and Dat is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is Dat's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is a child of Dat."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is a child of Dat."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is the child of Dat."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is Dat's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is Dat's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is the child of Dat."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Both are in love with each other."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is Dat's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is Dat's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is Dat's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is a child and Dat is a parent."
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "Hien is a child of Dat's family. Dat is an elder of Hien's family."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is a child of Dat"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is Dat's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is a child of Dat"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is Dat's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien and Dat are siblings."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Both of them are in love with each other."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is Dat's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is Dat's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is a child of Dat"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is the child of Dat"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is a child of Dat"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is a child of Dat"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Hien and Dat is about a romantic relationship."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is a child of Dat"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is a child of Dat"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is Dat's child."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Both are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is Dat's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is Dat's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is Dat's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is Dat's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is Dat's parent."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Hien and Dat are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is Dat's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is Dat's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is a child of Dat"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is a child of Dat"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is a child of Dat"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Both are in love with each other."
+  }
+]

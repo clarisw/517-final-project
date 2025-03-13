@@ -1,0 +1,162 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Jie and Vy are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is a child and Vy is a parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is the child of Vy."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is the child of Vy"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is the child of Vy."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Jie and Vy are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is a child of Vy"
+  },
+  {
+    "type": "Friends",
+    "explanation": "Jie and Vy are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is a child of Vy"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is a child of Vy"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation is between two lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is the child of Vy"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Jie and Vy are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is a child of Vy"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is a child of Vy"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is a child of Vy"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie and Vy are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is a child of Vy"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is a child of Vy"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Jie and Vy are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is a child of Vy"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is a child of Vy"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is a child of Vy."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Jie and Vy are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is a child of Vy"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Jie and Vy are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is a child of Vy"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is a child of Vy"
+  },
+  {
+    "type": "Friends",
+    "explanation": "Jie and Vy are friends."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Jie and Vy are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is a child of Vy."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is a child of Vy"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie and Vy are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is the child of Vy"
+  },
+  {
+    "type": "Friends",
+    "explanation": "Jie and Vy are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is the child of Vy"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is a child of Vy"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is the child and Vy is the parent."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Jie and Vy are lovers."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Jie and Vy are friends."
+  }
+]

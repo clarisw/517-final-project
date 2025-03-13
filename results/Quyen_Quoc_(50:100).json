@@ -1,0 +1,202 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is the child of Quoc"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Quyen and Quoc are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is the child of Quoc."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is the child of Quoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is Quyen's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is the child of Quoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is a child of Quoc"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Quyen and Quoc are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is Quoc's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is a child of Quoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is a child of Quoc."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is the child of Quoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is Quoc's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is the child of Quoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is the child of Quoc"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Quyen and Quoc are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is the child of Quoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is Quoc's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is Quoc's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is a child and Quoc is a parent."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Quyen and Quoc are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is a child of Quoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is Quoc's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is the child of Quoc"
+  },
+  {
+    "type": "Friends",
+    "explanation": "Quyen and Quoc are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is Quyen's parent."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Quyen and Quoc are in a relationship."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is Quoc's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is the child of Quoc"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Quyen and Quoc are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is the child of Quoc"
+  },
+  {
+    "type": "Friends",
+    "explanation": "Quyen and Quoc are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is the child of Quoc"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Quyen and Quoc are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is the child of Quoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is the child of Quoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is Quyen's parent."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Quyen and Quoc are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is the child of Quoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is Quoc's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is Quyen's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is the child of Quoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is Quoc's parent."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Quyen and Quoc are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is Quyen's parent."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Quyen and Quoc are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is the child of Quoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is Quoc's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is the child of Quoc"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Quoc and Quyen are lovers."
+  }
+]

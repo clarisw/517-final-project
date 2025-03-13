@@ -1,0 +1,162 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is Ngoc's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is a child of Sung"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is the child of Sung."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is the child of Sung"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is a child of Sung."
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "Ngoc is a child of Sung"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is a child of Sung."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is a child of Sung"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Based on the conversation, it is inferred that Ngoc is a child of Sung."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is a child of Sung"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation is between two lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is the child of Sung."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Ngoc and Sung is about a romantic relationship between the two people."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation is between two lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is Ngoc's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is the child of Sung"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is a child of Sung"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Both are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is a child of Sung"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Ngoc and Sung is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is a child of Sung"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is a child of Sung."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is a child of Sung."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Ngoc and Sung is about a romantic relationship."
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "Ngoc is a child of Sung"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Based on the conversation, it is inferred that Ngoc and Sung are lovers."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Both are in a relationship"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Because I asked you. And..."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Ngoc and Sung is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is a child of Sung"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is the child of Sung."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is Ngoc's parent."
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "Sung is Ngoc's parent or grandparent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is the child of Sung."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Both are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is the child of Sung."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is a child of Sung."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is the child of Sung."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Ngoc and Sung is a conversation between lovers."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Both are friends."
+  }
+]

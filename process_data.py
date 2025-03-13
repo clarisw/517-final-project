@@ -79,14 +79,14 @@ if __name__ == "__main__":
                 old_name1, old_name2 = context_row[1], context_row[2]
                 replaced_context = context_row[0].replace(old_name1, new_name1).replace(old_name2, new_name2)
 
-                user_prompt = f"Your task is to read a conversation between two people and infer the type of relationship between the two people from the given list of relationship types. \n\nInput: Following is the conversation between {new_name1} and {new_name2}. \n\n{replaced_context} \n\nWhat is the type of the relationship between {new_name1} and {new_name2} according to the below list of type of relationships: [ChildParent, Child-Other Family Elder, Siblings, Spouse, Lovers, Courtship, Friends, Neighbors, Roommates, Workplace Superior - Subordinate, Colleague/Partners, Opponents, Professional Contact] \n\nConstraint: Please answer in a JSON item format with the type of relationship and explanation for the inferred relationship. Type of relationship can only be from the provided list. \n\nOutput in JSON format:"
+                user_prompt = f"Your task is to read a conversation between two people and infer the type of relationship between the two people from the given list of relationship types. \n\nInput: Following is the conversation between {new_name1} and {new_name2}. \n\n{replaced_context} \n\nWhat is the type of the relationship between {new_name1} and {new_name2} according to the below list of type of relationships: [ChildParent, Child-Other Family Elder, Siblings, Spouse, Lovers, Courtship, Friends, Neighbors, Roommates, Workplace Superior - Subordinate, Colleague/Partners, Opponents, Professional Contact] \n\nConstraint: Please answer in a JSON item format with the type of relationship. Type of relationship can only be from the provided list. \n\nOutput in JSON format:"
 
                 combined_prompt = f"{system_prompt}\n\nUser: {user_prompt}"
                 inputs = tokenizer(combined_prompt, return_tensors="pt").to(model.device)
 
                 outputs = model.generate(
                     **inputs,
-                    max_new_tokens=256,  # adjust as needed
+                    max_new_tokens=50,
                     do_sample=False,
                 )
 

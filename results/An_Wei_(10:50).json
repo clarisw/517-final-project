@@ -1,0 +1,162 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "An and Wei are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An and Wei are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An and Wei are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An and Wei are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An and Wei are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of Wei"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An and Wei are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An and Wei are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Because Wei is older than An, Wei is the parent of An."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "The conversation between An and Wei is that of a child and a parent."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between An and Wei is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An and Wei are siblings."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between An and Wei is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is Wei's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "The conversation between An and Wei is between a child and a parent."
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "An and Wei are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An and Wei are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of Wei"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An and Wei are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An and Wei are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is Wei's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is a child of Wei"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is Wei's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of Wei"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is a child of Wei"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is Wei's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of Wei"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Because I asked you. And..."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An and Wei are siblings."
+  },
+  {
+    "type": "Friends",
+    "explanation": "The two people are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of Wei"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of Wei"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "The relationship between An and Wei is that of a child and parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An and Wei are siblings."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Both An and Wei are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An and Wei are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is Wei's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is Wei's parent."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between An and Wei is that of lovers."
+  },
+  {
+    "type": "Friends",
+    "explanation": "The two people are friends."
+  }
+]

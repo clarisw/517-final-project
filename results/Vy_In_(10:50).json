@@ -1,0 +1,162 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "In is the parent of Vy"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Vy is a child and In is a parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Vy is the child of In."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Vy is the child of In"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Vy is a child of In."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Vy is the child of In."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Vy is a child of In."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Vy is a child of In"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "In is the parent of Vy"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Vy is a child of In"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation is between two lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "In is the parent of Vy"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Vy and In is that of lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Vy is a child of In"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "In is the parent of Vy"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Vy is a child of In"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Vy is a child of In"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Vy is a child of In"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Vy is a child of In"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Vy is the child of In"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Vy is a child of In"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Vy is a child of In."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Vy is a child of In."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Vy is a child of In"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Vy is a child of In"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Vy is a child of In"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Vy is a child of In"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Because I asked you. And..."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Vy is a child of In"
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "Vy is a child of In"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Vy is a child of In."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "In is the parent of Vy"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "In is the parent of Vy"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "In is Vy's parent."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Both are friends"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "In is the child of Vy"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Vy is a child of In"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Vy is the child of In."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Vy and In is that of lovers. They are in a relationship where they are in love with each other."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Vy and In are friends."
+  }
+]

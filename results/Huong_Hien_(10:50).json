@@ -1,0 +1,162 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is Huong's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Huong is the child of Hien."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Huong is the child of Hien."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is Huong's mother."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is Huong's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Huong is the child of Hien."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Huong is the child of Hien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is Huong's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is Huong's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is Huong's parent."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Huong and Hien is about their relationship. They are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is Huong's parent."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Hien and Huong are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is Huong's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is Huong's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Huong is the child of Hien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is Huong's parent."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Hien and Huong are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Huong is the child of Hien"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Hien and Huong are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Huong is a child of Hien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is Huong's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is Huong's parent."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The two people are in a romantic relationship."
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "Hien is Huong's elder and they are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is Huong's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is Huong's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is Huong's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is Huong's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Huong is the child of Hien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Huong is the child of Hien."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is Huong's parent"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is Huong's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is Huong's parent."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The two people are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is a child of Huong"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is Huong's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is Huong's child."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Hien and Huong are lovers."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Hien and Huong are lovers."
+  }
+]

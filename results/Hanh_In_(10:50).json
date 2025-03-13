@@ -1,0 +1,162 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is the child of In."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh and In are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is the child of In."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is the child of In"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is the child of In."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is the child of In."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is the child and In is the parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is the child and In is the parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is a child of In."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is the child of In."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation is between two lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is the child of In."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Hanh and In is about a romantic relationship."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is the child of In."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is a child of In."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is the child of In"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh and In are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is a child of In."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is a child of In"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Hanh and In is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is a child of In."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is a child of In."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is a child of In."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is a child of In."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is a child of In."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is a child of In."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Hanh and In are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Because I asked you. And..."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is a child of In."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is the child of In"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is a child of In."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is the child of In"
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "Hanh and In are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is the child of In"
+  },
+  {
+    "type": "Friends",
+    "explanation": "Both are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is the child of In."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is a child of In."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is the child and In is the parent."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Hanh and In is a conversation between lovers."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Hanh and In are friends."
+  }
+]

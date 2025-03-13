@@ -1,0 +1,162 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "In is the child of Trinh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child and In is a parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is the child of In."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is the child of In"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is the child of In."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is the child of In."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is the child of In."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child of In"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "In is Trinh's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is the child of In."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation is between two lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is the child of In."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Trinh and In are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child of In"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "In is Trinh's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is the child of In"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is the child of In."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child of In"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child of In"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is In's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child of In"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child of In."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child of In."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child of In."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child of In."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child of In."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child of In"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Because I asked you. And..."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child of In"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child of In"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child of In"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "In is the child of Trinh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "In is Trinh's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is the child of In."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Trinh and In are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is the child of In"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child of In."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is the child of In."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Trinh and In are lovers."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Trinh and In are friends."
+  }
+]

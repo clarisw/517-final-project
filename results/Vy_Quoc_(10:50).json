@@ -1,0 +1,162 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is Vy's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Vy is a child of Quoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Vy is the child of Quoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Vy is Quoc's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Vy is a child of Quoc."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Vy is the child of Quoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Vy is a child of Quoc"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Vy and Quoc is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is Vy's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Vy is a child of Quoc"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Vy and Quoc is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Vy is the child of Quoc"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Vy and Quoc is about a romantic relationship between the two people."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Vy is Quoc's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is Vy's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Vy is a child of Quoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Vy is the child of Quoc"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The two people are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Vy is a child of Quoc"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Vy and Quoc is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Vy is a child of Quoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Vy is a child of Quoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Vy is a child of Quoc."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Vy and Quoc is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Vy is a child of Quoc"
+  },
+  {
+    "type": "Friends",
+    "explanation": "Vy and Quoc are friends."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Both are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Because I asked you. And..."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Vy is a child of Quoc"
+  },
+  {
+    "type": "Friends",
+    "explanation": "Both are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Vy is a child of Quoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is Vy's parent"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "The conversation between Vy and Quoc is that of a child and parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is Vy's parent."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Both are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Vy is a child of Quoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Vy is a child of Quoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is a child of Vy."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Vy and Quoc is a conversation between lovers."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Vy and Quoc are friends."
+  }
+]

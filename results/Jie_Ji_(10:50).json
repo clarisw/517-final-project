@@ -1,0 +1,162 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Ji is the child of Jie."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is the child of Ji"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is the child of Ji"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is the child of Ji"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is a child of Ji"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is the child of Ji"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is the child of Ji"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is the child of Ji"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ji is the parent of Jie."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is a child of Ji"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Ji and Jie are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is Ji's child."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Jie and Ji are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is Ji's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is a child of Ji"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is the child of Ji"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is the child and Ji is the parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is a child of Ji"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is a child of Ji"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Jie and Ji are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is a child of Ji"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is a child of Ji"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ji is the parent of Jie."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Jie and Ji are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is a child of Ji"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is a child of Ji"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is a child of Ji"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ji is the child of Jie."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is a child of Ji"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is the child of Ji"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is a child of Ji"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ji is Ji's parent"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ji is the parent of Jie."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ji is the parent of Jie."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Jie and Ji are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie and Ji are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ji is the child of Jie."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is the child and Ji is the parent."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Jie and Ji are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is the child of Ji"
+  }
+]

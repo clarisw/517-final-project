@@ -1,0 +1,162 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is the child of Nghia."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is the child of Nghia"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is the child of Nghia"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is the child of Nghia"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is the child of Nghia"
+  },
+  {
+    "type": "Friends",
+    "explanation": "Hien and Nghia are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is the child of Nghia"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien and Nghia are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is a child of Nghia"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is the child of Nghia"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Hien and Nghia is about their relationship. They are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is the child of Nghia"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Based on the conversation, it is inferred that Hien and Nghia are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is a child of Nghia"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is a child of Nghia"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is the child of Nghia"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is the child of Nghia"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The two people are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is a child of Nghia"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Hien and Nghia is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is a child of Nghia"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is a child of Nghia"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is a child of Nghia"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The two people are in a romantic relationship."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is a child of Nghia"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is a child of Nghia"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is a child of Nghia"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Because I asked you. And..."
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "Hien is a child of Nghia"
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "Hien is a child of Nghia"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is the child of Nghia."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is the child of Nghia"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is the child of Nghia"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is the child of Nghia"
+  },
+  {
+    "type": "Friends",
+    "explanation": "Both are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is the child of Nghia"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is a child of Nghia"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is the child of Nghia"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Based on the conversation, the two people are lovers."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Hien and Nghia are friends."
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is Ngoc's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is the child of Quyen."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is the child of Quyen."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is the child of Quyen"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is the child of Quyen."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is the child of Quyen"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is the child of Quyen."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is the child of Quyen"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Based on the conversation, Ngoc is a child of Quyen."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is a child of Quyen"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation is between two lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is the child of Quyen."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Ngoc and Quyen is about a romantic relationship between the two people."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is Quyen's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is Ngoc's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is the child of Quyen"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc and Quyen are siblings."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The two people are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is a child of Quyen"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Ngoc and Quyen is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is a child of Quyen"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is a child of Quyen."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is a child of Quyen."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The two people are in a romantic relationship."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is a child of Quyen"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is a child of Quyen."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is a child of Quyen"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Because I asked you. And..."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is a child of Quyen"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is the child of Quyen"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is the child of Quyen."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is Ngoc's parent."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Ngoc and Quyen is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is the child of Quyen"
+  },
+  {
+    "type": "Friends",
+    "explanation": "Both are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is the child of Ngoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is a child of Quyen"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is Ngoc's child."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Ngoc and Quyen is a conversation between lovers."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Both are friends."
+  }
+]

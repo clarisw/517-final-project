@@ -1,0 +1,202 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of Jun"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between An and Jun is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is Jun's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is An's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is An's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An and Jun are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is a child of Jun"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between An and Jun is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is Jun's child."
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "An is a child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An and Jun are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is the child of An."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An and Jun are siblings."
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "An and Jun are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is the child of An."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation is about a romantic relationship between An and Jun."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is An's parent"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An and Jun are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is An's parent"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is a child of Jun"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between An and Jun is about a romantic relationship."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is An's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is An's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of Jun"
+  },
+  {
+    "type": "Friends",
+    "explanation": "The two people are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is An's parent."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Jun is obsessed with An. They are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is the parent of Jun"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between An and Jun is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is An's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is An's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An and Jun are siblings."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between An and Jun is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An and Jun are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is An's child."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation is about a romantic relationship between An and Jun."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between An and Jun is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is An's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is An's parent"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is a child of An."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between An and Jun is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is An's parent."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Both are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is An's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An and Jun are siblings."
+  },
+  {
+    "type": "Friends",
+    "explanation": "The conversation is between two friends."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between An and Jun is a conversation between lovers."
+  }
+]

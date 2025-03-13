@@ -1,0 +1,162 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is Trinh's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is the child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is Trinh's mother."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is Jun's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is the child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is the child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is Trinh's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is Trinh's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is Trinh's parent."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Trinh and Jun is about their relationship. They are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is Trinh's parent."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Trinh and Jun is about a romantic relationship."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is Trinh's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is Trinh's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is Trinh's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is the child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child of Jun"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Trinh and Jun is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is Trinh's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is Trinh's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Because I asked you. And..."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is Trinh's parent."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Trinh and Jun are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is the child of Trinh"
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "Jun is the elder of Trinh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is Trinh's parent."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Trinh and Jun are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is the child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is Trinh's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is a child of Trinh"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Trinh and Jun is a conversation between lovers."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Trinh and Jun are friends."
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is Xiao's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is the child of Quyen"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is Quyen's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is Quyen's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is Quyen's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is the child of Quyen."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is the child of Quyen."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation is between two lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is Xiao's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is Quyen's child."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation is between two lovers."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Xiao and Quyen is about a romantic relationship."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Xiao and Quyen is about a romantic relationship between the two people."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is Quyen's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is Xiao's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is a child of Quyen"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is the child of Quyen"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Both are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is a child of Quyen"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Xiao and Quyen is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is a child of Quyen"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is a child of Quyen."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is a child of Quyen."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation is between two lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is a child of Quyen"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Based on the conversation, Xiao and Quyen are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is a child of Quyen"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Because I asked you. And..."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is a child of Quyen"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is a child of Quyen"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is a child of Quyen."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is Xiao's parent."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Xiao and Quyen is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is Xiao's parent."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Both Xiao and Quyen are friends."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Xiao and Quyen is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is a child of Quyen"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is Xiao's child."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Xiao and Quyen is a conversation between lovers."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Xiao and Quyen are friends."
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is Hien's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is the child of Quyen."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is Quyen's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is Quyen's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is Quyen's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is Quyen's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is the child of Quyen."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is the child of Quyen"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation is about a romantic relationship between Hien and Quyen."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is Quyen's child."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Hien and Quyen is a conversation between lovers."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Hien and Quyen is about a romantic relationship."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Hien and Quyen is about a romantic relationship between the two people."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is Quyen's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is Hien's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is the child of Quyen"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is the child of Quyen"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Both are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is a child of Quyen"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Hien and Quyen is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is a child of Quyen"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is a child of Quyen."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is a child of Quyen."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation is between two lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is a child of Quyen"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Hien and Quyen are lovers."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Both are in a relationship."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Because I asked you. And..."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is a child of Quyen"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The two people are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is the child of Quyen."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is Hien's parent."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Hien and Quyen is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is Quyen's child."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Hien and Quyen are friends."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Hien and Quyen is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is Quyen's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is the child of Quyen."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Hien and Quyen is a conversation between lovers."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Hien and Quyen are friends."
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is the child of Ling."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is a child of Sang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is Sang's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is Sang's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is Sang's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is Sang's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is the child of Sang"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Ling and Sang is a conversation between lovers."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Based on the conversation, it is inferred that the two people are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is Sang's child."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation is between two lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is Sang's child."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Ling and Sang is about a romantic relationship between the two people."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is Sang's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is the parent of Ling."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is a child of Sang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is Sang's child."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Ling and Sang are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is a child of Sang"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Ling and Sang is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is a child of Sang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is a child of Sang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is Sang's child."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation is between two lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is a child of Sang"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation is between two lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is Sang's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Because I asked you. And..."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is a child of Sang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is Sang's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is a child of Sang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is the child of Ling"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is the parent of Ling"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is the child of Sang"
+  },
+  {
+    "type": "Friends",
+    "explanation": "Both are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is a child of Sang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is a child of Sang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is the child of Sang"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Ling and Sang is that of lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is the child of Sang"
+  }
+]

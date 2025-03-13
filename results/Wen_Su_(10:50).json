@@ -1,0 +1,162 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is a child of Su"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is a child and Su is a parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is the child of Su."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is the child of Su"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is Su's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is the child of Su."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wen and Su are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wen and Su are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is a child of Su."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is a child of Su"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Wen and Su is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is the child of Su."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Wen and Su is about a romantic relationship between the two people."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is a child of Su."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Su is Wen's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is a child of Su"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is the child of Su"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is a child of Su."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is a child of Su"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Wen and Su is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is a child of Su."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is a child of Su."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is a child of Su."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is a child of Su"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is a child of Su"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is a child of Su."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is a child of Su"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Because I asked you. And..."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is a child of Su"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is a child of Su"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is a child of Su."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Su is the child of Wen"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "The conversation between Wen and Su is that of a child and parent. The child is Wen and the parent is Su."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is a child of Su"
+  },
+  {
+    "type": "Friends",
+    "explanation": "The two people are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is the child of Su"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is a child of Su."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is the child of Su."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Wen and Su is that of lovers. They are in a relationship and are in love with each other."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is the child of Su"
+  }
+]

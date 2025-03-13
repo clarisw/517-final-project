@@ -1,0 +1,162 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Su is a child of Trinh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child and Su is a parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is Su's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is Su's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is Su's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is the child of Su."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is the child of Su."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child of Su"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child and Su is a parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child of Su."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Trinh and Su is about their relationship. They are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is the child of Su."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Trinh and Su is about a romantic relationship."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child of Su."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Su is Trinh's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child of Su"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child of Su"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child of Su."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child of Su"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Trinh and Su are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child of Su."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child of Su."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Su is Trinh's mother."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Trinh and Su are in a relationship."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child of Su."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child of Su."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child of Su"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Because I asked you. And..."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child of Su."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child of Su."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child of Su."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Su is the child of Trinh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Su is the child of Trinh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child of Su"
+  },
+  {
+    "type": "Friends",
+    "explanation": "Trinh and Su are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is the child of Su."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child of Su"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is the child of Su."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Trinh and Su are lovers."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The two people are lovers."
+  }
+]

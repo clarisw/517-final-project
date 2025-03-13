@@ -1,0 +1,158 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Vy is Wei's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wei and Vy are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wei is the child of Vy."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wei and Vy are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Both Wei and Vy are children of the same parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Both Wei and Vy are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "The conversation between Wei and Vy is that of a child and parent. The child is Wei and the parent is Vy."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wei and Vy are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "The conversation between Wei and Vy is that of a child and parent."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Wei and Vy is that of lovers. They are in a relationship and they are in love with each other."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Both Wei and Vy are children of the same parent."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Wei and Vy is about a romantic relationship between Wei and Vy."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "The relationship between Wei and Vy is that of a child and a parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Vy is Wei's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wei is the child of Vy"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Both Wei and Vy are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wei is a child of Vy."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Because Wei is younger than Vy, Wei is Vy's child."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Wei and Vy is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "The conversation between Wei and Vy is that of a child and parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Both Wei and Vy are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Both Wei and Vy are children of the same parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "The relationship between Wei and Vy is that of a child and parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "The conversation between Wei and Vy is between a child and a parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wei is a child of Vy."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wei is a child of Vy"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Because I asked you. And..."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Both Wei and Vy are in the same school. They are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wei is the child of Vy."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wei is the child of Vy."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Vy is Wei's parent"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "The conversation between Wei and Vy is that of a child and parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wei is the child of Vy."
+  },
+  {
+    "type": "Friends",
+    "explanation": "The two people are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "The relationship between Wei and Vy is ChildParent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wei is a child of Vy"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wei is the child and Vy is the parent."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Wei and Vy is that of lovers. They are in a relationship and are in love with each other."
+  },
+  {
+    "type": "Friends",
+    "explanation": "The two people are friends."
+  }
+]

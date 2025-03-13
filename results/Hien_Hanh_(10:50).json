@@ -1,0 +1,162 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is the child of Hien."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is the child of Hanh."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is the child of Hanh."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is Hien's mother."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is Hanh's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is the child of Hanh."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is the child of Hanh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is the child of Hien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is the parent of Hien."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is the parent of Hien."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The two people are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is the child of Hien."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Hien and Hanh are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is the child of Hien."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is the child of Hien."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is Hien's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is the child of Hanh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is the child of Hanh."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is the child of Hanh"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Hien and Hanh are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is a child of Hanh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is Hien's mother."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is Hien's mother."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The two people are in a romantic relationship."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is the child of Hanh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is a child of Hanh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is a child of Hanh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is the child of Hien."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is a child of Hanh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is the child of Hanh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is the child of Hanh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is the child of Hien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is the child of Hien."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is the parent of Hien."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Both are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is the child of Hanh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is the child of Hien."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is the child of Hien."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Hien and Hanh are lovers."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Hien and Hanh are friends."
+  }
+]

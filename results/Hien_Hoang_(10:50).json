@@ -1,0 +1,162 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is a child of Hoang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is Hoang's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is Hoang's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is Hoang's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is Hoang's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is the child of Hoang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is a child of Hoang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien and Hoang are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is a child of Hoang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is a child of Hoang"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Hien and Hoang is about their relationship. They are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is Hoang's child."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Hien and Hoang are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is Hoang's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is a child of Hoang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is a child of Hoang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is the child of Hoang"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Hien and Hoang are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is a child of Hoang"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Hien and Hoang are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is a child of Hoang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is a child of Hoang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is a child of Hoang"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Hien and Hoang are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is a child of Hoang"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Hien and Hoang are lovers."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Hien and Hoang are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is a child of Hoang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is a child of Hoang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is a child of Hoang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is a child of Hoang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is a child of Hoang"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation is about a romantic relationship."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is the child of Hoang"
+  },
+  {
+    "type": "Friends",
+    "explanation": "Both are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is Hoang's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is a child of Hoang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is the child of Hoang"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Hien and Hoang are lovers."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Hien and Hoang are friends."
+  }
+]

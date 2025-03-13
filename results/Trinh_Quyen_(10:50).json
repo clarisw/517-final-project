@@ -1,0 +1,162 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is Trinh's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is the child of Quyen"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is Quyen's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is Trinh's mother."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is Quyen's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is the child of Quyen."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is the child of Quyen."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is Trinh's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is Trinh's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is Trinh's parent."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation is between two lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is Trinh's child."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Trinh and Quyen is about a romantic relationship between the two people."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is Trinh's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is Trinh's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is Trinh's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is the child of Quyen"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Trinh and Quyen are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child of Quyen"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Trinh and Quyen are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child of Quyen"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is Trinh's mother."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is Trinh's mother."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Trinh and Quyen are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child of Quyen"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child of Quyen"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child of Quyen"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Because I asked you. And..."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child of Quyen"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child of Quyen"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child of Quyen"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is Trinh's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is Trinh's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is Trinh's parent."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Trinh and Quyen are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is a child of Trinh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is Trinh's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is a child of Trinh"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Trinh and Quyen are lovers."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Quyen and Trinh are friends."
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "In is the parent of An."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An and In are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of In."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An and In are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of In."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of In."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An and In are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An and In are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Both An and In are children of the same parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Both are children of the same parent"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation is between two lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of In."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation is between two lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of In."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "The conversation between An and In is between a child and a parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of In"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An and In are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of In."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of In."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of In."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is a child of In."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An and In are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is a child of In."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is a child of In"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of In."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is a child of In."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of In"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Because I asked you. And..."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is a child of In"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of In"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of In."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of In"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "The conversation between An and In is between a child and a parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of In"
+  },
+  {
+    "type": "Friends",
+    "explanation": "Both are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of In"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of In."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child and In is the parent."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between An and In is that of lovers. They are in a relationship where they are in love with each other."
+  },
+  {
+    "type": "Friends",
+    "explanation": "An and In are friends."
+  }
+]

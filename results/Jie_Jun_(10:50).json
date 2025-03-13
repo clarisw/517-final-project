@@ -1,0 +1,162 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is the child of Jie."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is a child and Jun is a parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is the child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is the child of Jie."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is Jun's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is the child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is the child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is the child of Jie"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is the parent of Jie."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is the parent of Jie."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Jun and Jie are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is the child of Jie"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Jie and Jun are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is calling Jie as a child and Jie is calling Jun as a parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is the parent of Jie."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is the child of Jie"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is the child of Jie."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is a child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is a child of Jun"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Jie and Jun are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is a child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is the child of Jie."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is the child of Jie."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Jie and Jun are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is a child of Jun"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Jie and Jun are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is a child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is the child of Jie."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is a child of Jun"
+  },
+  {
+    "type": "Friends",
+    "explanation": "Jie and Jun are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is a child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is the child of Jie"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is the parent of Jie."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is the parent of Jie."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Jie and Jun are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is the child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is the child of Jie."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is the child and Jun is the parent."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Jie and Jun are lovers."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Jie and Jun are friends."
+  }
+]

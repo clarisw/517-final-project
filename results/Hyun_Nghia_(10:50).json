@@ -1,0 +1,162 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun and Nghia are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is a child and Nghia is a parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is the child of Nghia"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is the child of Nghia"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is the child of Nghia."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Hyun and Nghia are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is the child of Nghia"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun and Nghia are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Based on the conversation, Hyun and Nghia are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is the child of Nghia"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Hyun and Nghia is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is the child of Nghia"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The two people are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is the child of Nghia"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is a child of Nghia"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is the child of Nghia"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun and Nghia are siblings."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation is between two lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is a child of Nghia"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Hyun and Nghia is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is a child of Nghia"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is a child of Nghia"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is a child of Nghia."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation is about a romantic relationship between Hyun and Nghia."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is a child of Nghia"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is a child of Nghia"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Both Hyun and Nghia are in a relationship with each other."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Because I asked you. And..."
+  },
+  {
+    "type": "Friends",
+    "explanation": "The two people are friends."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Both Hyun and Nghia are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is the child of Nghia."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is the child of Nghia"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "The conversation between Hyun and Nghia is between a child and a parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is the child of Nghia"
+  },
+  {
+    "type": "Friends",
+    "explanation": "The two people are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "The conversation between Hyun and Nghia is that of a child and parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is a child of Nghia"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is the child of Nghia"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Hyun and Nghia is a conversation between lovers."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Hyun and Nghia are friends."
+  }
+]

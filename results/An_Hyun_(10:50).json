@@ -1,0 +1,162 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is An's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An and Hyun are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of Hyun."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is Hyun's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An and Hyun are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of Hyun."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An and Hyun are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An and Hyun are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "The conversation between An and Hyun is between a child and a parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Both An and Hyun are children of the same parent."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between An and Hyun is that of lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is An's parent."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The two people are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An and Hyun are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is An's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of Hyun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An and Hyun are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of Hyun."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An and Hyun are siblings."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between An and Hyun is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is a child of Hyun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is a child of Hyun."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "The relationship between An and Hyun is that of a child and parent."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The two people are in a romantic relationship."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of Hyun."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between An and Hyun is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of Hyun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Because I asked you. And..."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An and Hyun are siblings."
+  },
+  {
+    "type": "Friends",
+    "explanation": "The two people are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of Hyun."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is An's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "The conversation between An and Hyun is between a child and a parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An and Hyun are siblings."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Both are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is Hyun's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is Hyun's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of Hyun."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between An and Hyun is that of lovers."
+  },
+  {
+    "type": "Friends",
+    "explanation": "The two people are friends."
+  }
+]

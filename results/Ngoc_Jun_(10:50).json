@@ -1,0 +1,162 @@
+[
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "Jun is the child of Ngoc."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is a child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is the child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is Ngoc's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is Jun's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is the child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is the child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is Ngoc's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is Ngoc's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is Ngoc's parent."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation is between two lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is the child of Ngoc"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Ngoc and Jun is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is Ngoc's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is Ngoc's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is the child of Ngoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc and Jun are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is the child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is a child of Jun"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Ngoc and Jun is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is a child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is Ngoc's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is Ngoc's parent."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation is between two lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is a child of Jun"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation is between two lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is a child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is Ngoc's parent."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Ngoc and Jun is a conversation between lovers."
+  },
+  {
+    "type": "Friends",
+    "explanation": "The two people are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is a child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is Ngoc's parent."
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "Jun is Ngoc's parent or grandparent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is Ngoc's parent."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The two people are in a relationship."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Ngoc and Jun is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is the child of Ngoc."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is the child of Ngoc"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Ngoc and Jun is a conversation between lovers."
+  },
+  {
+    "type": "Friends",
+    "explanation": "The two people are friends."
+  }
+]

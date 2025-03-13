@@ -1,0 +1,162 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Jie and Ling are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is a child and Ling is a parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is the child of Ling"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is the child of Ling"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is the child of Ling."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is the child of Ling"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie and Ling are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is the child of Ling"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is a child of Ling"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is a child of Ling"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation is between two lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is the child of Ling"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Jie and Ling is about their relationship. They are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is a child of Ling"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is a child of Ling"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is a child of Ling"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is the child of Ling"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Jie and Ling are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is a child of Ling"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Jie and Ling is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is a child of Ling"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is a child of Ling"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is a child of Ling"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation is between two lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is a child of Ling"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Jie and Ling are lovers."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Jie and Ling is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is a child of Ling"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is a child of Ling"
+  },
+  {
+    "type": "Friends",
+    "explanation": "Jie and Ling are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is a child of Ling"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie and Ling are siblings."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Jie and Ling is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is the child of Ling"
+  },
+  {
+    "type": "Friends",
+    "explanation": "Jie and Ling are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is the child of Ling"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is a child of Ling"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is the child and Ling is the parent."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Jie and Ling is a conversation between lovers."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Jie and Ling are friends."
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Diem is Quyen's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is the child of Diem"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is the child of Diem."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is the child of Diem"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is Diem's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is the child of Diem."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is the child of Diem."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen and Diem are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is a child of Diem"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is the child of Diem"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Quyen and Diem is about their relationship. They are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is the child of Diem"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Quyen and Diem are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is the child of Diem"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Diem is Quyen's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is the child of Diem"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is the child of Diem"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Quyen and Diem are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is a child of Diem"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Quyen and Diem are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is a child of Diem"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is a child of Diem"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is a child of Diem."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The two people are in a romantic relationship."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is a child of Diem"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Quyen and Diem are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is the child of Diem."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is a child of Diem"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is a child of Diem"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is the child of Diem"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is the child of Diem"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Diem is Quyen's parent."
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "Diem is Quyen's elder and Quyen is Diem's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is the child of Diem"
+  },
+  {
+    "type": "Friends",
+    "explanation": "Quyen and Diem are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is the child of Diem"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is a child of Diem"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is the child of Diem"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Quyen and Diem are lovers."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Quyen and Diem are friends."
+  }
+]

@@ -1,0 +1,158 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is Wei's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is Wei's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "The conversation between Wei and Jie is about Wei's mother. Jie is Wei's mother's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is Wei's mother."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Both Wei and Jie are children of the same parent."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Both Wei and Jie are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "The conversation between Wei and Jie is that of a child and parent. The child is Wei and the parent is Jie."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is Wei's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is Wei's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is Wei's parent."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Wei and Jie is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is Wei's parent."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Wei and Jie is about their relationship. They are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is calling Wei as baby and Wei is calling Jie as genius. This is a typical parent-child relationship."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is Wei's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is Wei's parent"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is Wei's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Both Wei and Jie are children of the same parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Because Wei is younger than Jie, Wei is Jie's child."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Wei and Jie is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "The conversation between Wei and Jie is between a child and a parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is Wei's mother."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "The relationship between Wei and Jie is that of a child and a parent."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Wei and Jie is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "The conversation between Wei and Jie is between a child and a parent."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation is between two lovers."
+  },
+  {
+    "type": "Friends",
+    "explanation": "The two people are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Because I asked you. And..."
+  },
+  {
+    "type": "Friends",
+    "explanation": "The two people are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Both Wei and Jie are children of the same parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is Wei's parent"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "The conversation between Wei and Jie is that of a child and parent. The child is Wei and the parent is Jie."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is Wei's parent."
+  },
+  {
+    "type": "Friends",
+    "explanation": "The two people are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is Wei's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is Wei's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is Wei's child."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Wei and Jie is a conversation between lovers."
+  },
+  {
+    "type": "Friends",
+    "explanation": "The two people are friends."
+  }
+]

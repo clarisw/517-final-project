@@ -1,0 +1,162 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is the child of Eun."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is the child of Eun."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is the child of Eun."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is the child of Eun."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is a child of Eun."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is the child of Eun."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is the child of Eun."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao and Eun are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Based on the conversation, it is inferred that Xiao is the child of Eun."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is a child of Eun"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Xiao and Eun is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is Eun's child."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Based on the conversation, it is inferred that Xiao and Eun are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is a child of Eun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Eun is Xiao's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is a child of Eun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is the child of Eun."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is a child of Eun."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is a child of Eun"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Xiao and Eun is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is a child of Eun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is a child of Eun."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is a child of Eun."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The two people are in a romantic relationship."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is a child of Eun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is a child of Eun."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is a child of Eun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Because I asked you. And..."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is a child of Eun."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is a child of Eun."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is a child of Eun."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Eun is Xiao's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Eun is Xiao's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is the child of Eun."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is a child of Eun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is the child of Eun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is a child of Eun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is the child of Eun."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Xiao and Eun is that of lovers. They are in a relationship and are intimate with each other."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Xiao and Eun are friends."
+  }
+]

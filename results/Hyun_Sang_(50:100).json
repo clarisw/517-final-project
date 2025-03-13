@@ -1,0 +1,202 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is the child of Sang"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Hyun and Sang is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is the child and Sang is the parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is Hyun's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is Hyun's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is Hyun's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is a child of Sang"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Hyun and Sang is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is Sang's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is a child of Sang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is a child of Sang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is Hyun's parent."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Hyun and Sang are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is a child of Sang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is Hyun's parent."
+  },
+  {
+    "type": "Friends",
+    "explanation": "The conversation is between two friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is the child of Sang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is a child and Sang is a parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is Hyun's parent"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is a child and Sang is a parent."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Both are in love with each other."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is Hyun's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is Hyun's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is a child of Sang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is Hyun's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is Hyun's parent."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Both are in love with each other."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is a child of Sang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is Sang's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is Hyun's parent"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is Hyun's parent."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Both are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is a child of Sang"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Hyun and Sang is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is a child of Sang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun and Sang are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is Hyun's child."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The two people are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is Hyun's parent"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is a child of Sang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is Hyun's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is Hyun's parent"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is Hyun's child."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The two people are in a romantic relationship."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is Hyun's parent."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Both are friends."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Hyun and Sang are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is Hyun's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is Hyun's parent."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The two people are lovers."
+  }
+]

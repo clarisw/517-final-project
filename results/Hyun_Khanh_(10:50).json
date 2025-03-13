@@ -1,0 +1,162 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Khanh is Hyun's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is a child of Khanh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is the child of Khanh."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is the child of Khanh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is the child of Khanh."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Hyun and Khanh are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is the child of Khanh."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun and Khanh are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Based on the conversation, Hyun and Khanh are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is a child of Khanh"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation is between two lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is the child of Khanh"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The two people are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is a child of Khanh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Khanh is Hyun's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is a child of Khanh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun and Khanh are siblings."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The two people are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is a child of Khanh"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Hyun and Khanh is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is a child of Khanh."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is a child of Khanh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is a child of Khanh."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation is between two lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is a child of Khanh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is a child of Khanh."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Hyun and Khanh are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Because I asked you. And..."
+  },
+  {
+    "type": "Friends",
+    "explanation": "The two people are friends."
+  },
+  {
+    "type": "Friends",
+    "explanation": "The two people are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is a child of Khanh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is a child of Khanh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "The relationship between Hyun and Khanh is that of a child and a parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is the child of Khanh"
+  },
+  {
+    "type": "Friends",
+    "explanation": "The two people are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "The relationship between Hyun and Khanh is ChildParent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is a child of Khanh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is the child of Khanh."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Hyun and Khanh is a conversation between lovers."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Hyun and Khanh are friends."
+  }
+]

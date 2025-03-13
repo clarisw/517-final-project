@@ -1,0 +1,162 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is Vy's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Vy is a child of Trinh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Vy is the child of Trinh."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Vy is the child of Trinh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Vy is a child of Trinh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Vy is the child of Trinh."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Vy is a child of Trinh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Vy and Trinh are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Vy is a child of Trinh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Vy is a child of Trinh"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Vy and Trinh is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Vy is Trinh's child."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Vy and Trinh is about a romantic relationship between the two people."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Vy is a child of Trinh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is Vy's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Vy is a child of Trinh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Vy is the child of Trinh"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The two people are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Vy is a child of Trinh"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Vy and Trinh is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Vy is a child of Trinh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Vy is a child of Trinh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Vy is a child of Trinh"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The two people are in a romantic relationship."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Vy is a child of Trinh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Vy is a child of Trinh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Vy is a child of Trinh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Because I asked you. And..."
+  },
+  {
+    "type": "Friends",
+    "explanation": "The two people are friends."
+  },
+  {
+    "type": "Friends",
+    "explanation": "The two people are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Vy is a child of Trinh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is Vy's parent"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is Vy's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Vy is the child of Trinh"
+  },
+  {
+    "type": "Friends",
+    "explanation": "Both are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child of Vy"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Vy is a child of Trinh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Vy is the child of Trinh"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Vy and Trinh is a conversation between lovers."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Vy and Trinh are friends."
+  }
+]

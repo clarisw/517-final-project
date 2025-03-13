@@ -1,0 +1,158 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is a child of Su."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is a child and Su is a parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is the child of Su."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is the child of Su."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is Su's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is the child of Su."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung and Su are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is a child of Su"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is a child of Su."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is a child of Su."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Sung and Su is that of lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is the child of Su."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Sung and Su is about a romantic relationship."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is a child of Su."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is a child of Su."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is a child of Su"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is a child of Su"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is a child of Su."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is a child of Su."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is the child of Su."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is a child of Su."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is a child of Su."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is a child of Su."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is a child of Su."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is a child of Su."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is a child of Su."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Sung and Su are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Because I asked you. And..."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is a child of Su."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is a child of Su."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is a child of Su."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is a child of Su"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is a child of Su"
+  },
+  {
+    "type": "Friends",
+    "explanation": "Sung and Su are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is the child of Su."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is a child of Su."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is the child and Su is the parent."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Sung and Su are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is the child of Su."
+  }
+]

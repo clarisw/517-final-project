@@ -1,0 +1,162 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Ji is the child of Khanh."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Khanh is Ji's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Khanh is Ji's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Khanh is the child of Ji"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Khanh is Ji's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Khanh is Ji's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Khanh is the child of Ji"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ji is the child of Khanh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ji is the parent of Khanh."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ji is the parent of Khanh."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation is between two lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ji is the child of Khanh"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The two people are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ji is Khanh's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ji is the parent of Khanh."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Khanh is a child of Ji"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Khanh is the child of Ji"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Khanh is Ji's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Khanh is a child of Ji"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation is between two lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Khanh is a child of Ji"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ji is the child of Khanh."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ji is the parent of Khanh."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Khanh is a child of Ji"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Khanh is a child of Ji"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Khanh is a child of Ji"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Khanh is a child of Ji"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Because I asked you. And..."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ji is the child of Khanh."
+  },
+  {
+    "type": "Friends",
+    "explanation": "The two people are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Khanh is Ji's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ji is the child of Khanh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ji is the parent of Khanh."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ji is the parent of Khanh"
+  },
+  {
+    "type": "Friends",
+    "explanation": "Both are friends."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The two people are in a romantic relationship."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Khanh is Ji's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ji is a child of Khanh"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The two people are lovers."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Both are friends."
+  }
+]

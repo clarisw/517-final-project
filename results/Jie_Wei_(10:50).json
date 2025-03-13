@@ -1,0 +1,162 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is Wei's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is a child and Wei is a parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is the child of Wei"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is the child of Wei"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is Wei's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is the child of Wei"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie and Wei are siblings."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Jie and Wei are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is Wei's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is Wei's child."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation is between two lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is Wei's child."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Jie and Wei are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is Wei's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is a child of Wei"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is the child of Wei"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is Wei's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is a child of Wei"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is a child of Wei"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Jie and Wei is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is Wei's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is a child of Wei"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is a child of Wei"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is a child of Wei"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is a child of Wei"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is a child of Wei"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is Wei's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Because I asked you. And..."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is a child of Wei"
+  },
+  {
+    "type": "Friends",
+    "explanation": "Jie and Wei are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is a child of Wei"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is Wei's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie and Wei are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is Wei's child."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Jie and Wei are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is Wei's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is a child of Wei"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is Wei's parent."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Jie and Wei are lovers."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Jie and Wei are friends."
+  }
+]

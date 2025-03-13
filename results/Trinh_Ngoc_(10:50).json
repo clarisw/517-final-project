@@ -1,0 +1,162 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is a child of Trinh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh and Ngoc are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is Ngoc's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is Ngoc's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child of Ngoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is the child of Ngoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is the child of Ngoc."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh and Ngoc are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Based on the conversation, it is inferred that Ngoc is the parent of Trinh."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is the child of Ngoc"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Trinh and Ngoc is about their relationship. They are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is Ngoc's child."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Trinh and Ngoc is about a romantic relationship between the two people."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child of Ngoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is the child of Trinh."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child of Ngoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh and Ngoc are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child of Ngoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child of Ngoc"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Trinh and Ngoc are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child of Ngoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child of Ngoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child of Ngoc."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child of Ngoc"
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "Trinh is a child of Ngoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child of Ngoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child of Ngoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Because I asked you. And..."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child of Ngoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is the child of Ngoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child of Ngoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is a child of Trinh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "The conversation between Trinh and Ngoc is between a child and a parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is the child of Ngoc"
+  },
+  {
+    "type": "Friends",
+    "explanation": "Trinh and Ngoc are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is the child of Ngoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child of Ngoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is the child of Ngoc."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Trinh and Ngoc are lovers."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Trinh and Ngoc are friends."
+  }
+]

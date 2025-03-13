@@ -1,0 +1,162 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is the child of Sung."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is a child and Jun is a parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is the child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is Sung's mother."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is Jun's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is the child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung and Jun are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is the child of Sung"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is the child of Sung."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is the parent of Sung."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation is between two lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is the child of Sung."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Sung and Jun is about a romantic relationship."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is calling Sung a genius, which is a sign of parental affection."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is the parent of Sung."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is the child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung and Jun are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is a child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is a child of Jun"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Sung and Jun is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is a child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is a child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is Sung's parent."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation is between two lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is a child of Jun"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation is between two lovers."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Sung and Jun are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is the child of Sung."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is a child of Jun"
+  },
+  {
+    "type": "Friends",
+    "explanation": "The two people are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is a child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is the child of Sung"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is the child of Sung."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is the parent of Sung."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Sung and Jun are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is a child of Sung."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is a child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is the child of Sung."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Sung and Jun is a conversation between lovers."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Sung and Jun are friends."
+  }
+]

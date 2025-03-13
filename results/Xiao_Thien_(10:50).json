@@ -1,0 +1,162 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is Xiao's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is a child of Thien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is the child of Thien."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is the child of Thien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is a child of Thien."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is the child of Thien."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is a child of Thien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is a child of Thien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Based on the conversation, Xiao is a child of Thien."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is a child of Thien"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation is between two lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is Xiao's parent."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Xiao and Thien is about a romantic relationship between Xiao and Thien."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is a child of Thien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is Xiao's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is a child of Thien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is a child of Thien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is a child of Thien."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is a child of Thien"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Xiao and Thien is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is a child of Thien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is a child of Thien."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is a child of Thien."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation is between two lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is a child of Thien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is a child of Thien."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is a child of Thien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Because I asked you. And..."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is a child of Thien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is a child of Thien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is a child of Thien."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is Xiao's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is Xiao's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is the child of Thien"
+  },
+  {
+    "type": "Friends",
+    "explanation": "Both Xiao and Thien are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is Xiao's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is a child of Thien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is the child of Thien."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Xiao and Thien is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is the child of Thien"
+  }
+]

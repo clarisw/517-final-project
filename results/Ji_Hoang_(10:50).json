@@ -1,0 +1,162 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Ji is a child of Hoang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ji is a child and Hoang is a parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ji is Hoang's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ji is the child of Hoang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ji is a child of Hoang"
+  },
+  {
+    "type": "Friends",
+    "explanation": "Ji and Hoang are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ji is a child of Hoang"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Ji and Hoang is about their relationship. They are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ji is a child of Hoang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ji is a child of Hoang"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Ji and Hoang is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ji is Hoang's child."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Ji and Hoang are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ji is a child of Hoang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ji is a child of Hoang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ji is a child of Hoang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ji and Hoang are siblings."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Ji and Hoang are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ji is a child of Hoang"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Ji and Hoang is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ji is a child of Hoang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ji is a child of Hoang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ji is a child of Hoang"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Ji and Hoang are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ji is a child of Hoang"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Ji and Hoang are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ji is a child of Hoang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ji is a child of Hoang"
+  },
+  {
+    "type": "Friends",
+    "explanation": "Ji and Hoang are friends."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Ji and Hoang are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ji is a child of Hoang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ji is a child of Hoang"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Ji and Hoang is about a romantic relationship."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ji is the child of Hoang"
+  },
+  {
+    "type": "Friends",
+    "explanation": "Ji and Hoang are friends."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Ji and Hoang are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ji is a child of Hoang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ji is the child and Hoang is the parent."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Ji and Hoang are lovers."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Ji and Hoang are friends."
+  }
+]

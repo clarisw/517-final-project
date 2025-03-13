@@ -1,0 +1,162 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is Xiao's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is a child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is the child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is Jun's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is Jun's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is the child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is the child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is Xiao's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is Xiao's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is Xiao's parent."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation is between two lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is the child of Xiao"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Xiao and Jun is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is Xiao's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is Xiao's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is a child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is a child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is a child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is a child of Jun"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Xiao and Jun is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is a child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is a child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is Xiao's parent."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation is between two lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is a child of Jun"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation is between two lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is a child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Because I asked you. And..."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is a child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is Jun's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is a child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is Xiao's parent"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is Xiao's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is Xiao's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is a child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is the child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is a child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is the child of Jun"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Xiao and Jun is a conversation between lovers."
+  },
+  {
+    "type": "Friends",
+    "explanation": "The two people are friends."
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is Hyun's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun and Wen are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is the child of Wen."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is the child of Wen."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is the child of Wen."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is the child of Wen."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is the child of Wen."
+  },
+  {
+    "type": "Friends",
+    "explanation": "The conversation is between two friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Both Hyun and Wen are children of the same parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Both Hyun and Wen are children of the same parent."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Hyun and Wen is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is Hyun's parent."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Hyun and Wen is about a romantic relationship."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is calling Hyun a genius and Hyun is calling Wen a genius. This is a sign of a parent-child relationship."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is Hyun's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is a child of Wen"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun and Wen are siblings."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The two people are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is a child of Wen"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Hyun and Wen is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is a child of Wen"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is a child of Wen"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "The relationship between Hyun and Wen is that of a child and parent."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation is between two lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is a child of Wen"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is a child of Wen."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The two people are in a romantic relationship."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Because I asked you. And..."
+  },
+  {
+    "type": "Friends",
+    "explanation": "The two people are friends."
+  },
+  {
+    "type": "Friends",
+    "explanation": "The two people are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is a child of Wen."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is Hyun's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is Hyun's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is the child of Wen."
+  },
+  {
+    "type": "Friends",
+    "explanation": "The two people are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is Hyun's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is a child of Wen"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is the child of Wen."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Hyun and Wen is a conversation between lovers."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Hyun and Wen are friends."
+  }
+]

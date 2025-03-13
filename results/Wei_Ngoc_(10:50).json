@@ -1,0 +1,158 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is Wei's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Both Wei and Ngoc are children of the same parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "The conversation between Wei and Ngoc is between a child and a parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is Wei's mother."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Both Wei and Ngoc are children of the same parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Both Wei and Ngoc are children of the same parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "The conversation between Wei and Ngoc is that of a child and parent. The child is Wei and the parent is Ngoc."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Both Wei and Ngoc are children of the same parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "The relationship between Wei and Ngoc is that of a child and parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Both Wei and Ngoc are children of the same parent."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation is between two lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is Wei's mother."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Wei and Ngoc is about a romantic relationship."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is calling Wei as a child and Wei is calling Ngoc as a parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is Wei's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Norma Stern is Wei's mother."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Both Wei and Ngoc are siblings."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The two people are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Because Wei is a child and Ngoc is a parent."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Wei and Ngoc is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "The conversation is between a child and a parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "The conversation between Wei and Ngoc is between a child and a parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Based on the conversation, Wei is a child of Ngoc."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Wei and Ngoc is about a romantic relationship."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "The conversation between Wei and Ngoc is between a child and a parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Both Wei and Ngoc are children of the same parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wei is a child of Ngoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Because I asked you. And..."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Both Wei and Ngoc are children of the same parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Both Wei and Ngoc are children of the same parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is Wei's parent"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "The conversation between Wei and Ngoc is between a child and a parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Based on the conversation, Wei and Ngoc are siblings."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Both Wei and Ngoc are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is Wei's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "The conversation between Wei and Ngoc is between a child and a parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "The relationship between Wei and Ngoc is that of a child and a parent."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Wei and Ngoc is a conversation between lovers."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Both Wei and Ngoc are friends."
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is the child of Khanh."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Khanh and Jun is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Khanh is Jun's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is the child of Khanh."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is Khanh's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Khanh is the child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Khanh is a child of Jun"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Khanh and Jun is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Khanh is Jun's child."
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "Jun is a parent of Khanh."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Khanh is a child of Jun"
+  },
+  {
+    "type": "Friends",
+    "explanation": "Jun and Khanh are friends."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Both are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Khanh is a child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is the child of Khanh"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation is about a romantic relationship between Khanh and Jun."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The two people are lovers."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Both are friends."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation is between two people who are in a relationship."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Khanh is a child and Jun is a parent."
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "Khanh and Jun are siblings."
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "Jun is Khanh's elder and they are related by blood."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Khanh is a child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Khanh is a child of Jun"
+  },
+  {
+    "type": "Friends",
+    "explanation": "Khanh and Jun are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is the child of Khanh"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Jun is obsessed with Khanh. Khanh is not interested in Jun. Jun is Khanh's lover."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Khanh is a child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Khanh is the parent of Jun"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Khanh and Jun is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is the child of Khanh"
+  },
+  {
+    "type": "Friends",
+    "explanation": "Both are friends."
+  },
+  {
+    "type": "Friends",
+    "explanation": "The two people are friends."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Khanh and Jun is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Khanh is a child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is the child of Khanh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is the child of Khanh."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The two people are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is the child of Khanh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Khanh is a child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is the child of Khanh."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is the child of Khanh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is a child of Khanh"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The two people are in a romantic relationship."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is the child of Khanh"
+  },
+  {
+    "type": "Friends",
+    "explanation": "Both are friends."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The two people are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is Khanh's parent."
+  },
+  {
+    "type": "Friends",
+    "explanation": "The two people are friends."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Khanh and Jun is a conversation between lovers."
+  }
+]

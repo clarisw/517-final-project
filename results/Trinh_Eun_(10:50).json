@@ -1,0 +1,162 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is Eun's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is the child of Eun."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is Eun's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is Eun's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is Eun's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is the child of Eun."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is the child of Eun."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh and Eun are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child of Eun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is Eun's child."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Trinh and Eun is about their relationship. They are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is Eun's parent."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Trinh and Eun are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is Eun's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Eun is Trinh's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child of Eun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh and Eun are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child of Eun."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child of Eun"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Trinh and Eun are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child of Eun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child of Eun."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child of Eun."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child of Eun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child of Eun."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child of Eun."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child of Eun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Because I asked you. And..."
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "Trinh is a child of Eun's family. Eun is an elder of Trinh's family."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child of Eun."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child of Eun."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Eun is a child of Trinh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is Eun's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is Eun's child."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Trinh and Eun are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is the child of Eun."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child of Eun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is the child of Eun."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Trinh and Eun are lovers."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Trinh and Eun are friends."
+  }
+]

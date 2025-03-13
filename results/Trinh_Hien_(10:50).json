@@ -1,0 +1,162 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is Trinh's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child and Hien is a parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is Hien's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is Hien's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is Hien's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is the child of Hien."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is the child of Hien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child of Hien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child of Hien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child of Hien"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation is between two lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is Hien's child."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Trinh and Hien is about a romantic relationship between the two people."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is Hien's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is Trinh's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child of Hien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is the child of Hien"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Trinh and Hien are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child of Hien"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Trinh and Hien is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child of Hien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child of Hien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child of Hien"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Trinh and Hien are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child of Hien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child of Hien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child of Hien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Because I asked you. And..."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child of Hien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child of Hien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child of Hien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is a child of Trinh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is the child of Hien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is the child of Hien"
+  },
+  {
+    "type": "Friends",
+    "explanation": "Trinh and Hien are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is the child of Hien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child of Hien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is the child of Hien"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Trinh and Hien are lovers."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Trinh and Hien are friends."
+  }
+]

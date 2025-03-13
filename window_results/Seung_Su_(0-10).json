@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Seung is the child of Su."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Seung is the child of Su."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Seung is the child of Su."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Su is the child of Seung."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Su is the parent of Seung."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Seung is the child of Su."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Seung is the child of Su."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Su is a child of Seung."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Seung is the child of Su."
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "Su is Seung's grandmother."
+  }
+]

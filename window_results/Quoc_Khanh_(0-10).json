@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is the child of Khanh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is the child of Khanh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is the child of Khanh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is the child of Khanh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is the child of Khanh."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is the child of Khanh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is the child of Khanh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is the child of Khanh."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is the child of Khanh."
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "Quoc is Khanh's child and Khanh is Quoc's other family elder."
+  }
+]

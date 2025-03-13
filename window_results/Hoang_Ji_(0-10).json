@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Hoang is a child of Ji"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hoang is the child of Ji"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hoang is the child of Ji"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hoang is Ji's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hoang is the child of Ji"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hoang is Ji's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hoang is Ji's child."
+  },
+  {
+    "type": "Friends",
+    "explanation": "The two people are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hoang is Ji's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hoang is Ji's child."
+  }
+]

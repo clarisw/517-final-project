@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is a child of In."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is the child of In"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is the child of In."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is the child of In."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "In the conversation, In is the parent of Ling."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is the child of In."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is a child of In."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is a child of In"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is a child of In."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is a child of In"
+  }
+]

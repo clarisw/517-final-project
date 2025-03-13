@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Seung is the child of Xiao."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Seung is the child of Xiao"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Seung is the child of Xiao"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is a child of Seung."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is the parent of Seung."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Seung is the parent of Xiao."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Seung is the child of Xiao."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is a child of Seung."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Seung is the child of Xiao"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Seung is the child of Xiao"
+  }
+]

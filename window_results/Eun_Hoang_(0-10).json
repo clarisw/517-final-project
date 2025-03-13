@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Eun is Hoang's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Eun is a child of Hoang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Eun is Hoang's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Eun is Hoang's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Eun is a child of Hoang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Eun is the child of Hoang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Eun is Hoang's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Eun is Hoang's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Eun is Hoang's child."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Based on the conversation, the two people are lovers."
+  }
+]

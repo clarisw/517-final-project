@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is the child of Vy."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is the child of Vy"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is the child of Vy"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is the child of Vy"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "The relationship between Hyun and Vy is that of a child and parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is the child of Vy."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is the child of Vy."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Vy is Hyun's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun and Vy are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is the child of Vy"
+  }
+]

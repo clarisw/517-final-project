@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Su is a child of Quoc."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Su is the child of Quoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Su is the child of Quoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is the child of Su."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is the parent of Su."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Su is the child of Quoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Su and Quoc are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is Su's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Su and Quoc are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Su is the child of Quoc"
+  }
+]

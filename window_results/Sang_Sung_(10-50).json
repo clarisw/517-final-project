@@ -1,0 +1,162 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is the child of Sang."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is the child of Sung."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is the child of Sung."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is Sang's mother."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is the child of Sung."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is the child of Sung."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is the child of Sung."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is Sang's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is Sang's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is Sang's parent."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation is between two lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is Sang's parent."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Sang and Sung are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is calling Sang a genius, which is a sign of parental love."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is Sang's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is Sang's parent"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is the child of Sung"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is the child of Sung."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is a child of Sung"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Sang and Sung are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is a child of Sung"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is Sang's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is Sang's parent."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation is between two lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is a child of Sung"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is a child of Sung."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is a child of Sung"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is Sang's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is Sang's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is the child of Sung."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is the child of Sung."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is the child of Sang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is Sang's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is the parent of Sang"
+  },
+  {
+    "type": "Friends",
+    "explanation": "Sang and Sung are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is a child of Sang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is Sang's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is Sang's child."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Sang and Sung are lovers."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Sang and Sung are friends."
+  }
+]

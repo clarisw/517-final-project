@@ -1,0 +1,162 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is Dat's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat and Hien are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat is the child of Hien."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat is the child of Hien."
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "Dat and Hien are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat is the child of Hien."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat and Hien are siblings."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Dat and Hien is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat and Hien are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat and Hien are siblings."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Dat and Hien is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat and Hien are siblings."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Dat and Hien is about a romantic relationship between the two people."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat is the child of Hien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is Dat's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat and Hien are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat and Hien are siblings."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The two people are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat is a child of Hien"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Dat and Hien is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat and Hien are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat is a child of Hien."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat is a child of Hien."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation is between two lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat is a child of Hien"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation is between two lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat is the child of Hien."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Because I asked you. And..."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat and Hien are siblings."
+  },
+  {
+    "type": "Friends",
+    "explanation": "The two people are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat is a child of Hien."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat and Hien are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is Dat's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat and Hien are siblings."
+  },
+  {
+    "type": "Friends",
+    "explanation": "The two people are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat and Hien are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat is a child of Hien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat and Hien are siblings."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Dat and Hien is a conversation between lovers."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Dat and Hien are friends."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is the child of Vy."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is the child of Vy"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is the child of Vy"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is Vy's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is the child of Vy."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is the child of Vy"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is the child of Vy."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is Vy's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is the child of Vy."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is the child of Vy"
+  }
+]

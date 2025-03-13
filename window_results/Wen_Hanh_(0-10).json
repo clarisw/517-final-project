@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is the child of Hanh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is the child of Hanh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is the child of Hanh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is the child of Hanh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is Hanh's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is Hanh's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is Hanh's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is Hanh's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is Hanh's child."
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "Wen is Hanh's child and Hanh is Wen's other family elder."
+  }
+]

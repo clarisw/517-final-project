@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is the child of Eun."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is the child of Eun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is the child of Eun."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is the child of Eun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung and Eun are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is the child of Eun."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is the child of Eun."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung and Eun are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung and Eun are siblings."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Sung and Eun is that of lovers."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is the child of Vy."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is the child of Vy"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is the child of Vy."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is the child of Vy"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung and Vy are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is the child of Vy."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is the child of Vy."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is Vy's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is the child of Vy."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is the child of Vy"
+  }
+]

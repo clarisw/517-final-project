@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is the child of Thien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is the child of Thien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is the child of Thien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is the child of Nghia"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is the parent of Nghia."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is the child of Thien."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is the child of Thien."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is Nghia's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is the child of Thien"
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "Thien is Nghia's elder and is a family member."
+  }
+]

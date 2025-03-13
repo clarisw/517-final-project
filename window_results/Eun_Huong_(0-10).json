@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Eun is a child of Huong"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Eun is a child of Huong"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Eun is the child of Huong"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Eun is the child of Huong"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Eun is Huong's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Eun is the child of Huong"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Eun is Huong's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Eun is Huong's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Eun is a child of Huong"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Eun is the child of Huong"
+  }
+]

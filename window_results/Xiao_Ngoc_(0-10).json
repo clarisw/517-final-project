@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is a child of Ngoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is the child of Ngoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is the child of Ngoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is the child of Ngoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is the child of Ngoc."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is the child of Ngoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is a child of Ngoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is a child of Ngoc."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is the child of Ngoc."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is the child of Ngoc"
+  }
+]

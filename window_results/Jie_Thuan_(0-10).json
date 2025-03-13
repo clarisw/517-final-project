@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is a child of Thuan"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is the child of Thuan"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is the child of Thuan"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is the child of Jie"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is the child of Thuan."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is the child of Thuan"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is a child of Thuan"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is a child of Thuan"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is a child of Thuan"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is a child of Thuan"
+  }
+]

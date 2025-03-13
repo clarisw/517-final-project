@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is the child of Khanh."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is the child of Khanh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is the child of Khanh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is the child of Khanh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is the child of Khanh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is the child of Khanh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is the child of Khanh"
+  },
+  {
+    "type": "Friends",
+    "explanation": "Jun and Khanh are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is the child of Khanh."
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "Jun is Khanh's child and Khanh is an elder in Jun's family."
+  }
+]

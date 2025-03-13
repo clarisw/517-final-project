@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is a child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is the child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is the child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is the child of Xiao"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is the parent of Xiao."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is the child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is a child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is Xiao's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is a child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is Jun's child."
+  }
+]

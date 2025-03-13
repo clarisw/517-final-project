@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is a child of Quyen"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is the child of Quyen"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is the child of Quyen"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is the child of Quyen"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is a child of Quyen"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is the child of Quyen"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is the child of Quyen"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is Quyen's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is the child of Quyen"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Ling and Quyen are lovers."
+  }
+]

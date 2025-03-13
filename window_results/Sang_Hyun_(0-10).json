@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is the child of Hyun."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is the child of Hyun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is the child of Hyun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is the child of Hyun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is the child of Hyun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is Hyun's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is Hyun's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is Hyun's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is a child of Hyun."
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "Sang is Hyun's child and Hyun is Sang's other family elder."
+  }
+]

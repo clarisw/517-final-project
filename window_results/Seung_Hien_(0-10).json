@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Seung is the child of Hien."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Seung is the child of Hien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Seung is the child of Hien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is the child of Seung"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is the parent of Seung."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Seung is the parent of Hien."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Seung is the child of Hien."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is the child of Seung."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Seung is the child of Hien."
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "Hien is Seung's elder and Seung is Hien's child."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is the child of Quyen."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is the child of Quyen"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is the child of Quyen"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is the child of Trinh."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is Trinh's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is the parent of Quyen."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is the child of Quyen"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is Trinh's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is the child of Quyen."
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "Trinh is a child of Quyen"
+  }
+]

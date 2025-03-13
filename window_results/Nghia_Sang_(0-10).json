@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is Sang's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is the child of Sang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is the child of Sang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is the child of Nghia"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is Sang's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is the child of Sang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is Sang's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is Sang's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is Sang's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is the child of Sang"
+  }
+]

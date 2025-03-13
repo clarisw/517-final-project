@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of Hien."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of Hien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of Hien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is An's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An and Hien are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of Hien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of Hien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is An's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An and Hien are siblings."
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "An is Hien's child or other family elder."
+  }
+]

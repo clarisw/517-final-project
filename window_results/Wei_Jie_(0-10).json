@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "The relationship between Wei and Jie is that of a child and parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is Wei's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "The relationship between Wei and Jie is that of a child and a parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is Wei's parent"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is Wei's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is Wei's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Both Wei and Jie are children of the same parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is Wei's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "The conversation between Wei and Jie is between a child and a parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is Wei's parent"
+  }
+]

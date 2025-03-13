@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Khanh is the child of Diem"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Khanh is the child of Diem"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Khanh is the child of Diem"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Diem is the child of Khanh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Diem is the parent of Khanh."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Diem is the child of Khanh."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Khanh is the child of Diem"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Diem is the child of Khanh."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Khanh is the child of Diem"
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "Diem is Khanh's elder and is a family member."
+  }
+]

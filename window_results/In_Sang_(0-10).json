@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "In is the child of Sang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "In is the child of Sang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "In is the child of Sang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "In and Sang are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "In and Sang are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "In is the child of Sang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "In and Sang are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "In and Sang are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "In and Sang are siblings."
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "In and Sang are siblings."
+  }
+]

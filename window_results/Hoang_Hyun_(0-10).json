@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Hoang is the child of Hyun."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hoang is the child of Hyun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hoang is the child of Hyun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hoang is the child of Hyun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hoang is a child of Hyun."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hoang is Hyun's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hoang is Hyun's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hoang is Hyun's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hoang is the child of Hyun."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Hoang and Hyun is about a romantic relationship."
+  }
+]

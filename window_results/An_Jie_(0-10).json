@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of Jie."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of Jie"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of Jie."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is An's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An and Jie are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of Jie"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An and Jie are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is An's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An and Jie are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of Jie"
+  }
+]

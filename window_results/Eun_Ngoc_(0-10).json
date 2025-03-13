@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Eun is a child of Ngoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Eun is the child of Ngoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Eun is the child of Ngoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Eun is the child of Ngoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Eun is a child of Ngoc."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Eun is the child of Ngoc."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Eun is a child of Ngoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Eun is a child of Ngoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Eun is a child of Ngoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Eun is a child of Ngoc"
+  }
+]

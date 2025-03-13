@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Vy is a child of Hoang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Vy is a child of Hoang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Vy is Hoang's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Vy is Hoang's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Vy is a child of Hoang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Vy is the child of Hoang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Vy is Hoang's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Vy is a child of Hoang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Vy is a child of Hoang"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Vy and Hoang is a conversation between lovers."
+  }
+]

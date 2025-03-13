@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is the child of Thien."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is the child of Thien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is the child of Thien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is the child of Thien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is the child of Thien."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is the child of Thien."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is a child of Thien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is the child of Thien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is the child of Thien"
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "Thien is Sang's elder and Sang is Thien's child."
+  }
+]

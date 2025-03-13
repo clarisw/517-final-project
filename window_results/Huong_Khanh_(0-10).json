@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Huong is a child of Khanh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Huong is the child of Khanh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Huong is the child of Khanh."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Huong is the child of Khanh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Huong is the child of Khanh."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Huong is the child of Khanh."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Huong is a child of Khanh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Huong is a child of Khanh."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Huong is the child of Khanh."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Huong is the child of Khanh."
+  }
+]

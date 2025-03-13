@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Dat is the child of Huong."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat is the child of Huong"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat is the child of Huong"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat is Huong's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat and Huong are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat is Huong's father."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Dat and Huong is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat and Huong are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat and Huong are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat is Huong's child."
+  }
+]

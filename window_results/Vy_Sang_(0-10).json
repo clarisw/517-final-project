@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Vy is Sang's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Vy is the child of Sang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Vy is the child of Sang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is the child of Vy"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is the parent of Vy."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Vy is the child of Sang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Vy is Sang's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is Vy's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Vy is Sang's child."
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "Vy is Sang's child and Sang is Sang's elder."
+  }
+]

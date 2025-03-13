@@ -1,0 +1,162 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Su is a child of Thien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is the child of Su."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is Su's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Su is the child of Thien"
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "Thien is Su's child and Su is an elder in the family."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is the child of Su."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is a child of Su."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Su is the child of Thien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Su is the child of Thien."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Su is the parent of Thien."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Thien and Su is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Su is the child of Thien."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Thien and Su are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Su is calling Thien as a child and Thien is calling Su as a parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Su is a parent of Thien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is the child of Su."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is the child of Su."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is the child of Su."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is a child of Su"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is the child of Su"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is a child of Su."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Su is Thien's mother."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Su is Thien's mother."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is a child of Su."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is a child of Su."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is a child of Su."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is a child of Su"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Su is the child of Thien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is a child of Su."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is a child of Su"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is a child of Su."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Su is a child of Thien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Su is the child of Thien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Su is the parent of Thien"
+  },
+  {
+    "type": "Friends",
+    "explanation": "Thien and Su are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Su is a child of Thien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is a child of Su"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Su is a child of Thien"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Thien and Su are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Su is the child of Thien"
+  }
+]

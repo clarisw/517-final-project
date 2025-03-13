@@ -1,0 +1,202 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is the child of Quoc."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Thien and Quoc is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is the child of Quoc."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is the child of Quoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is Quoc's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is the child of Quoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is a child of Quoc"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Thien and Quoc is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is Quoc's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is a child of Quoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is a child of Quoc."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is the parent of Thien."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Thien and Quoc are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is the child of Quoc."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is a child of Quoc"
+  },
+  {
+    "type": "Friends",
+    "explanation": "Thien and Quoc are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is Quoc's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is a child of Quoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is Quoc's parent"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is a child and Quoc is a parent."
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "Thien is a child of Quoc's family. Quoc is an elder of Thien's family."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is a child of Quoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is a child of Quoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is a child of Quoc"
+  },
+  {
+    "type": "Friends",
+    "explanation": "Thien and Quoc are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is Thien's parent."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Quoc is obsessed with Thien. Thien is not interested in Quoc."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is Quoc's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is the child of Quoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is a child of Quoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is the child of Quoc"
+  },
+  {
+    "type": "Friends",
+    "explanation": "Thien and Quoc are friends."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Thien and Quoc are friends."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Thien and Quoc is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is a child of Quoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is the child of Quoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is Quoc's child."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Thien and Quoc are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is Quoc's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is the child of Quoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is Thien's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is Thien's parent"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is Thien's child."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Thien and Quoc are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is Thien's parent."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Thien and Quoc are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is a child of Quoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is a child of Quoc"
+  },
+  {
+    "type": "Friends",
+    "explanation": "Thien and Quoc are friends."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The two people are lovers."
+  }
+]

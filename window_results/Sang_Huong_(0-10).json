@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is the child of Huong"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is the child of Huong"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is the child of Huong"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is the child of Huong"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is Huong's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is Huong's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is Huong's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is Huong's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is the child of Huong."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is Huong's child."
+  }
+]

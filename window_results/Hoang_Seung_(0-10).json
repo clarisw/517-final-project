@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Hoang is a child of Seung"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hoang is the child of Seung"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hoang is the child of Seung"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hoang is the child of Seung"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hoang is a child of Seung"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hoang is the parent of Seung."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hoang is the child of Seung."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hoang is a child of Seung."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hoang is a child of Seung."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Hoang and Seung is about a romantic relationship."
+  }
+]

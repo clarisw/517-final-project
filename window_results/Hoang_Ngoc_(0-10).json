@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Hoang is the child of Ngoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hoang is the child of Ngoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hoang is the child of Ngoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hoang is the child of Ngoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hoang is the child of Ngoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hoang is Ngoc's father."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hoang is the child of Ngoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hoang is the child of Ngoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hoang is the child of Ngoc"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Based on the conversation, Hoang and Ngoc are lovers."
+  }
+]

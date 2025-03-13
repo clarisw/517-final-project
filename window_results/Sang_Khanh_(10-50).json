@@ -1,0 +1,162 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is a child of Khanh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is the child of Khanh."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is the child of Khanh."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is the child of Khanh."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is the child of Khanh."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Sang and Khanh are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is a child of Khanh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is a child of Khanh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is a child of Khanh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is a child of Khanh"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation is between two lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is the child of Khanh"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Sang and Khanh is about a romantic relationship."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is a child of Khanh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is a child of Khanh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is a child of Khanh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is a child of Khanh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is a child of Khanh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is a child of Khanh"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Sang and Khanh is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is a child of Khanh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is a child of Khanh."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is a child of Khanh."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation is between two lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is a child of Khanh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is a child of Khanh."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is a child of Khanh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is a child of Khanh"
+  },
+  {
+    "type": "Friends",
+    "explanation": "Sang and Khanh are friends."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Sang and Khanh are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is the child of Khanh."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is a child of Khanh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is a child of Khanh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is the child of Khanh"
+  },
+  {
+    "type": "Friends",
+    "explanation": "Sang and Khanh are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is the child of Khanh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is a child of Khanh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sang is the child of Khanh"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Sang and Khanh are lovers."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Sang and Khanh are friends."
+  }
+]

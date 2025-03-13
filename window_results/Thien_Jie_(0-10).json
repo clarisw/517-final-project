@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is the child of Jie."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is the child of Jie"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is the child of Jie"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is the child of Jie"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is the child of Jie."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is the child of Jie."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is the child of Jie."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is the child of Jie"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is the child of Jie."
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "Thien is a child of Jie's other family elder."
+  }
+]

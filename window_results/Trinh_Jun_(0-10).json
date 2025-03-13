@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is the child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is the child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is the child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is the child of Trinh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is the parent of Trinh."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is the parent of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is the child of Trinh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is the child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is Jun's child."
+  }
+]

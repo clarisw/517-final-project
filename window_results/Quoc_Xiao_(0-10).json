@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is the child of Xiao."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is the child of Xiao"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is the child of Xiao"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is the child of Xiao"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc and Xiao are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is Xiao's father."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is Xiao's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is Xiao's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is the child of Xiao"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is Xiao's child."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is a child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is the child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is the child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is the child of Wen"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is the parent of Wen."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is the child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is the child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is the child of Wen."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is Jun's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is Jun's child."
+  }
+]

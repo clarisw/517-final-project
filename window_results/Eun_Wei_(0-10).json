@@ -1,0 +1,38 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Eun is a child of Wei"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Eun is the child of Wei"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Eun is the child of Wei"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Eun is the child of Wei"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Eun is Wei's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Eun is Wei's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Eun is Wei's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Eun is Wei's child."
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "Eun is Wei's child and Wei is Eun's other family elder."
+  }
+]

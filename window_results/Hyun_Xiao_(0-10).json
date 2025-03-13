@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is the child of Xiao."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is the child of Xiao"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is the child of Xiao"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is a child of Hyun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Both Hyun and Xiao are children of the same parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is the parent of Xiao."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is the child of Xiao."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Xiao is Hyun's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun and Xiao are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is the child of Xiao"
+  }
+]

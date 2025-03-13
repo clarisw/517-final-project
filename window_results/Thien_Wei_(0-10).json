@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is the child of Wei"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is the child of Wei"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is the child of Wei"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is the child of Wei"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is Wei's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is Wei's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is Wei's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is Wei's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is the child of Wei"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is Wei's child."
+  }
+]

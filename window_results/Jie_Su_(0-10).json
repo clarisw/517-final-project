@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is a child of Su."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is the child of Su"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is the child of Su"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is the child of Su"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is a child of Su."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is the child of Su."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is a child of Su."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is Su's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie and Su are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is a child of Su"
+  }
+]

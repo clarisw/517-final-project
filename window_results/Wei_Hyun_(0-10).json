@@ -1,0 +1,38 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "The relationship between Wei and Hyun is that of a child and parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Both Wei and Hyun are parents of Junior."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "The relationship between Wei and Hyun is that of a child and a parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "The relationship between Wei and Hyun is that of a child and a parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "The relationship between Wei and Hyun is that of a child and parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Both Wei and Hyun are from the same family.  Hyun is Wei's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Both Wei and Hyun are children of the same parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "The conversation is between a child and a parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "The relationship between Wei and Hyun is that of a child and parent."
+  }
+]

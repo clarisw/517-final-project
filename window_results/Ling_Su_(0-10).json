@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is a child of Su."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is the child of Su"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is the child of Su."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is the child of Su."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is a child of Su."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is the child of Su."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is a child of Su."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is a child of Su."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is a child of Su."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is a child of Su"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Diem is the child of Hyun."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Diem is the child of Hyun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Diem is the child of Hyun."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Diem is the child of Hyun."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Diem is the child of Hyun."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Diem is Hyun's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Diem is Hyun's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Diem is Hyun's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Diem is Hyun's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Diem is Hyun's child."
+  }
+]

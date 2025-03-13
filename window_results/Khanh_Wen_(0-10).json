@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Khanh is the child of Wen."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Khanh is the child of Wen"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Khanh is the child of Wen"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Khanh is the child of Wen"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Khanh and Wen are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Khanh is the child of Wen."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Khanh is the child of Wen"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Khanh is the child of Wen"
+  },
+  {
+    "type": "Friends",
+    "explanation": "The two people are friends."
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "Khanh is a child of Wen"
+  }
+]

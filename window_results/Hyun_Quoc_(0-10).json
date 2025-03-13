@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is a child of Quoc."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is the child of Quoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is the child of Quoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is Hyun's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is Hyun's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is the child of Quoc."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun is Quoc's child."
+  },
+  {
+    "type": "Friends",
+    "explanation": "The two people are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hyun and Quoc are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is Hyun's parent."
+  }
+]

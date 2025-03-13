@@ -1,0 +1,162 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is the child of Thien."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is the child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is the child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is the child of Thien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is Jun's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is the child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is the child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is the child of Thien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is the parent of Thien."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is the parent of Thien."
+  },
+  {
+    "type": "Friends",
+    "explanation": "The conversation is between two friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is the child of Thien"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Thien and Jun are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is the child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is the parent of Thien."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is Thien's parent"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is the child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is the child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is the child of Jun"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Thien and Jun is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is a child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is Thien's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is Thien's parent."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation is between two lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is a child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is a child of Jun"
+  },
+  {
+    "type": "Friends",
+    "explanation": "Thien and Jun are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is the child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is a child of Jun"
+  },
+  {
+    "type": "Friends",
+    "explanation": "Thien and Jun are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is the child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is the child of Thien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is the parent of Thien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is the parent of Thien."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Thien and Jun are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is a child of Thien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is a child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is a child of Thien"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Thien and Jun is a conversation between lovers."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Thien and Jun are friends."
+  }
+]

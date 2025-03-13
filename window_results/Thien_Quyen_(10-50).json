@@ -1,0 +1,162 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is Thien's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is the child of Quyen."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is Quyen's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is Thien's mother."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is Quyen's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is Quyen's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is the child of Quyen."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is Thien's child."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation is about a romantic relationship between Thien and Quyen."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is Thien's parent."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Thien and Quyen is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is Thien's child."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Thien and Quyen is about a romantic relationship between the two people."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is calling Thien as her child and Thien is calling Quyen as his parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is the child of Thien."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is Thien's mother."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is the child of Quyen"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Thien and Quyen are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is the child of Quyen"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Thien and Quyen are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is a child of Quyen"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is Thien's mother."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is Thien's mother."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Thien and Quyen are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is a child of Quyen"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Thien and Quyen are lovers."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Thien and Quyen are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is the child of Thien."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is a child of Quyen"
+  },
+  {
+    "type": "Friends",
+    "explanation": "Thien and Quyen are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is the child of Quyen."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is the child of Thien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is the child of Thien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is Thien's parent."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Thien and Quyen are friends."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Thien and Quyen is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is Quyen's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quyen is the child of Thien."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Thien and Quyen is a conversation between lovers."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Thien and Quyen are friends."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "In is the child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "In is the child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "In is the child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "In and Jun are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "In and Jun are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "In is the child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "In and Jun are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is the child of In"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "In and Jun are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "In and Jun are siblings."
+  }
+]

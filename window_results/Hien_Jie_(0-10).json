@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is a child of Jie"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is the child of Jie"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is the child of Jie"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is the child of Jie."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is the child of Jie."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is the child of Jie."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is a child of Jie."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is a child of Jie."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is a child of Jie"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is a child of Jie"
+  }
+]

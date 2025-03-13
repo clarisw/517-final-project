@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is the child of Trinh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is the child of Trinh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is the child of Trinh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is the child of Trinh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh and Trinh are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is the child of Trinh."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is the child of Trinh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh and Trinh are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh and Trinh are siblings."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Hanh and Trinh is about love and romance."
+  }
+]

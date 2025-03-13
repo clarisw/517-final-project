@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is the child of Quyen."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is the child of Quyen"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is the child of Quyen"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is the child of Quyen"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is the child of Quyen."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is the child of Quyen."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is the child of Quyen"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is Quyen's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien and Quyen are siblings."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Hien and Quyen are lovers."
+  }
+]

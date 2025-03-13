@@ -1,0 +1,38 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "The relationship between Wei and Vy is that of a child and a parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Both Wei and Vy are parents of Junior."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "The relationship between Wei and Vy is that of a child and parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Both Wei and Vy are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "The relationship between Wei and Vy is that of a child and parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Both Wei and Vy are young and Wei is older than Vy.  This is a typical parent-child relationship."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Both Wei and Vy are young and they are in a relationship that is not romantic."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "The conversation between Wei and Vy is between a child and a parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "The relationship between Wei and Vy is that of a child and parent."
+  }
+]

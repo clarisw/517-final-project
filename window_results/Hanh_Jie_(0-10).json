@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is a child of Jie."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is the child of Jie"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is the child of Jie."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is the child of Jie"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh and Jie are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is the child of Jie."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is the child of Jie."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Hanh and Jie are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh and Jie are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is the child of Jie."
+  }
+]

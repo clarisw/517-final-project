@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is the child of Khanh."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is the child of Khanh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is the child of Khanh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is the child of Khanh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is the child of Khanh."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is the child of Khanh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is the child of Khanh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is the child of Khanh."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is the child of Khanh"
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "Hien is a child of Khanh"
+  }
+]

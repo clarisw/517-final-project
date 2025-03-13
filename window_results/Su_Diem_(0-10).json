@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Su is a child of Diem"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Su is the child of Diem"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Su is the child of Diem"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Diem is the child of Su."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Diem is the parent of Su."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Su is the child of Diem"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Su and Diem are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Diem is Su's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Su and Diem are siblings."
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "Su and Diem are siblings."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is a child of Sung"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is the child of Sung"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is the child of Sung"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is the child of Sung"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is the child of Sung."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is the parent of Sung."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is a child of Sung"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is a child of Sung"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is a child of Sung."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is a child of Sung"
+  }
+]

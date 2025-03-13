@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Eun is a child of Ling"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Eun is the child of Ling"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Eun is the child of Ling"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Eun is the child of Ling"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Eun is a child of Ling"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Eun is the child of Ling"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Eun is a child of Ling"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Eun is a child of Ling"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Eun is a child of Ling"
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "Eun is a child of Ling"
+  }
+]

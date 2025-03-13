@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of Huong."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of Huong"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of Huong"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of Huong"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "The conversation between An and Huong is between a child and a parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is Huong's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An and Huong are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is Huong's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An and Huong are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of Huong"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is the child of Ling"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is the child of Ling"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is the child of Ling"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is the child of Ling"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie and Ling are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is the child of Ling"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is the child of Ling"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is the child of Ling"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie and Ling are siblings."
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "Jie is a child of Ling"
+  }
+]

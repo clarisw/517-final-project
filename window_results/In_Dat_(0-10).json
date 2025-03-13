@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "In is a child of Dat."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "In is the child of Dat."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "In is the child of Dat."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "In is the child of Dat."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "In and Dat are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "In is the child of Dat"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "In and Dat are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "In is the child of Dat."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "In and Dat are siblings."
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "In is Dat's child or other family elder."
+  }
+]

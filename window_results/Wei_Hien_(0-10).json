@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "The relationship between Wei and Hien is that of a child and parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Both Wei and Hien are parents of Junior."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "The relationship between Wei and Hien is that of a child and a parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is the child of Wei"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is Wei's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is Wei's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Both Wei and Hien are children of the same parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is Wei's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Both Wei and Hien are children of the same parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is Wei's parent."
+  }
+]

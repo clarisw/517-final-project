@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of Hanh."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of Hanh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of Hanh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is the child of An."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is Hanh's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is Hanh's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An and Hanh are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is Hanh's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An and Hanh are siblings."
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "An is Hanh's child or grandchild or other family elder."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is a child of Seung."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is the child of Seung"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is the child of Seung."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is the child of Seung"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "The relationship between Ngoc and Seung is that of a child and parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is the child of Seung."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is the child of Seung."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is a child of Seung."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is the child of Seung."
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "Ngoc is a child of Seung"
+  }
+]

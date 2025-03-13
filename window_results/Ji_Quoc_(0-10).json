@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Ji is a child of Quoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ji is the child of Quoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ji is the child of Quoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ji is the child of Quoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ji is the child of Quoc."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ji is the child of Quoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ji is a child of Quoc"
+  },
+  {
+    "type": "Friends",
+    "explanation": "Ji and Quoc are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ji is a child of Quoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ji is the child of Quoc"
+  }
+]

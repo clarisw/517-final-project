@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is the child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is the child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is the child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is the child of Sung"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is the parent of Sung."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is the child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is the child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is the child of Sung."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Sung is the child of Jun"
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "Sung is Jun's child and Jun is Sung's other family elder."
+  }
+]

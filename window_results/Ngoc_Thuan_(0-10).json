@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is a child of Thuan"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is the child of Thuan"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is the child of Thuan"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is the child of Ngoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is Ngoc's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is the child of Thuan."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is the child of Thuan"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is a child of Thuan"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ngoc is the child of Thuan"
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "Thuan is Ngoc's elder and he is not her parent."
+  }
+]

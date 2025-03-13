@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Su is a child of Ling"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Su is the child of Ling"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Su is the child of Ling"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Su and Ling are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Su and Ling are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Su is the child of Ling"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Su and Ling are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Ling is Su's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Su and Ling are siblings."
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "Su and Ling are siblings."
+  }
+]

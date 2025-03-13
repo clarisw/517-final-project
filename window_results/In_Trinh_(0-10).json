@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "In is the child of Trinh."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "In is the child of Trinh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "In is the child of Trinh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "In is the child of Trinh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "In and Trinh are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "In is the child of Trinh"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "In and Trinh are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "In and Trinh are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "In and Trinh are siblings."
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "In and Trinh are siblings."
+  }
+]

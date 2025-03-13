@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is the child of Xiao"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is the child of Xiao"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is the child of Xiao"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is the child of Xiao"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan and Xiao are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is the parent of Xiao"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is Xiao's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is Xiao's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is the child of Xiao"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is Xiao's child."
+  }
+]

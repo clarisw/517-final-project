@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Dat is the child of Nghia."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat is the child of Nghia"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat is the child of Nghia"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat is the child of Nghia"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat and Nghia are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat is the child of Nghia"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat is the child of Nghia"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat is the child of Nghia"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat and Nghia are siblings."
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "Dat and Nghia are siblings."
+  }
+]

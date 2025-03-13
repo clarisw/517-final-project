@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "In is a child of Ling"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "In is the child of Ling"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "In is the child of Ling"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "In is the child of Ling"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "In and Ling are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "In is the child of Ling"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "In and Ling are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "In and Ling are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "In and Ling are siblings."
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "In and Ling are siblings."
+  }
+]

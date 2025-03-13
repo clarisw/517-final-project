@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Huong is the child of Hien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Huong is the child of Hien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Huong is the child of Hien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is Huong's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is Huong's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Huong is the child of Hien."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is Huong's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is Huong's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is Huong's parent."
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "Hien is Huong's elder and is a family member."
+  }
+]

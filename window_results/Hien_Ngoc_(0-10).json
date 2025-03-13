@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is a child of Ngoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is the child of Ngoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is the child of Ngoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is the child of Ngoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is the child of Ngoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is the child of Ngoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is the child of Ngoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is a child of Ngoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hien is the child of Ngoc"
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "Hien is a child of Ngoc"
+  }
+]

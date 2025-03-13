@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "The relationship between Wei and An is that of a child and a parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Both Wei and An are parents of the same child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "The relationship between Wei and An is that of a child and a parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is Wei's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "The relationship between Wei and An is that of a child and a parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Both Wei and An are from the same family. Wei is the parent and An is the child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Both Wei and An are children of the same parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is Wei's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Both Wei and An are in their 20s and are in a relationship that is not romantic. Wei is a child of An."
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "An is Wei's elder and Wei is An's child."
+  }
+]

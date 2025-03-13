@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of Su."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of Su"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of Su."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Su is the child of An."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Su is the parent of An."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of Su."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An is the child of Su."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Su is the child of An."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "An and Su are siblings."
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "Su is An's grandmother."
+  }
+]

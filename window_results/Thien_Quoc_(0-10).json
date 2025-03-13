@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is the child of Quoc."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is the child of Quoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is the child of Quoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is the child of Thien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is the parent of Thien."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is the child of Quoc."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is the child of Quoc."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is Quoc's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is the child of Quoc."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is the child of Quoc"
+  }
+]

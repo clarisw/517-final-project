@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Diem is the child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Diem is the child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Diem is the child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Diem is the child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Diem is the child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Diem is the parent of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Diem is the child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Diem is the child of Jun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Diem is the child of Jun"
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "Diem is Jun's child and Jun is Diem's other family elder."
+  }
+]

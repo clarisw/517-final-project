@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is a child of An."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is the child of An."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is the child of An."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is the child of An."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is a child of An."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is the parent of An."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is a child of An."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is a child of An."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is a child of An."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Wen is a child of An."
+  }
+]

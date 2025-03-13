@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is a child of Wei"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is the child of Wei"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is the child of Wei"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is the child of Wei"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is Wei's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is Wei's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is Wei's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is Wei's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is a child of Wei"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jie is Wei's child."
+  }
+]

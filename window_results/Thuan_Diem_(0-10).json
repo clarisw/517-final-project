@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is the child of Diem"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is the child of Diem"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is the child of Diem"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is the child of Diem"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan and Diem are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is the child of Diem"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is the child of Diem"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Diem is the child of Thuan."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is the child of Diem"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is the child of Diem"
+  }
+]

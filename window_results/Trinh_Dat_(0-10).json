@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is a child of Dat"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is the child of Dat"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is Dat's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat is the child of Trinh."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is Dat's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is Dat's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is Dat's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Dat is Trinh's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Trinh is Dat's child."
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "Trinh is Dat's child and Dat is an elder in the family."
+  }
+]

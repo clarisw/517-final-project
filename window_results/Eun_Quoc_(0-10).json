@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Eun is a child of Quoc."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Eun is a child of Quoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Eun is the child of Quoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Eun is the child of Quoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Eun is Quoc's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Eun is the child of Quoc"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Eun is Quoc's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Eun is Quoc's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Eun is Quoc's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Eun is Quoc's child."
+  }
+]

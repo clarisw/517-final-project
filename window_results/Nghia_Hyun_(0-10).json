@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is the child of Hyun."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is the child of Hyun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is the child of Hyun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is Hyun's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is the child of Hyun."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is Hyun's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is Hyun's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is Hyun's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is Hyun's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Nghia is Hyun's child."
+  }
+]

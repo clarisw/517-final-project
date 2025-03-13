@@ -1,0 +1,162 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is the child of Thuan."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is the child of Thien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is the child of Thien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is the child of Thien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is the child of Thien."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is the child of Thien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is the child of Thien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is the child of Thien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is a child of Thien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is the child of Thien"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Thuan and Thien are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is the child of Thien"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Thuan and Thien are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is the child of Thien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is the child of Thuan."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is the child of Thien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is the child of Thien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is the child of Thien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is the child of Thien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is the child of Thien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is a child of Thien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is a child of Thien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is Thuan's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is a child of Thien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is the child of Thien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is a child of Thien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is a child of Thien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is the child of Thuan."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is a child of Thien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is the child of Thien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is a child of Thien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is the child of Thuan"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is the child of Thien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is the child of Thien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is the child of Thien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is the child of Thien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is a child of Thien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thuan is the child of Thien"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Thuan and Thien are lovers."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Thuan and Thien are friends."
+  }
+]

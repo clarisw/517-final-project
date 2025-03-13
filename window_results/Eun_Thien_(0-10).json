@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Eun is a child of Thien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Eun is the child of Thien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Eun is the child of Thien."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is the child of Eun."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Thien is the parent of Eun."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Eun is the child of Thien."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Eun is a child of Thien."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Eun is a child of Thien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Eun is a child of Thien"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Eun is the child of Thien"
+  }
+]

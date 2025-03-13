@@ -1,0 +1,162 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Jun and Hyun are siblings."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is the child of Hyun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is Hyun's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is the child of Hyun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is Hyun's child."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Jun and Hyun are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun and Hyun are siblings."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Jun and Hyun are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is Hyun's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is Hyun's child."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Jun and Hyun is a conversation between lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is Hyun's child."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Jun and Hyun is about a romantic relationship."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is Hyun's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is a child of Hyun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is the child of Hyun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun and Hyun are siblings."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Jun and Hyun are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is the child of Hyun"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "The conversation between Jun and Hyun is a conversation between lovers."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Jun and Hyun are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is a child of Hyun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is a child of Hyun"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Jun and Hyun are lovers."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is the child of Hyun"
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Jun and Hyun are lovers."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Jun and Hyun are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Because I asked you. And..."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Jun and Hyun are friends."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Jun and Hyun are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is a child of Hyun"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is Hyun's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is Hyun's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is Hyun's child."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Jun and Hyun are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is Hyun's parent."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is Hyun's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Jun is the child and Hyun is the parent."
+  },
+  {
+    "type": "Lovers",
+    "explanation": "Jun and Hyun are lovers."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Jun and Hyun are friends."
+  }
+]

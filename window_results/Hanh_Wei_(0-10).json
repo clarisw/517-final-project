@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is the child of Wei"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is the child of Wei"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is the child of Wei"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is the child of Wei"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is Wei's child."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is the child of Wei"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is the child of Wei"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is the child of Wei"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Hanh is the child of Wei"
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "explanation": "Hanh is Wei's child and Wei is Hanh's other family elder."
+  }
+]

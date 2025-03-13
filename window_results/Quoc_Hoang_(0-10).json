@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is the child of Hoang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is the child of Hoang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is the child of Hoang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is the child of Hoang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is the child of Hoang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is the child of Hoang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is Hoang's child."
+  },
+  {
+    "type": "Friends",
+    "explanation": "Quoc and Hoang are friends."
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is the child of Hoang"
+  },
+  {
+    "type": "ChildParent",
+    "explanation": "Quoc is Hoang's child."
+  }
+]

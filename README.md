@@ -7,7 +7,7 @@ Here, we aim to reproduce parts of results from [On the Influence of Gender and 
 * The names we used to experiment with is in `names.csv`. This file was generated from `names_list_to_csv.ipynb` and is based on data in the appendix of the original paper.
 
 ## Running the Model
-The model is run with the `process_data.sh`script. 
+The model is run with the `process_data.sh`script. Note that a token will need to be generated through the hugging face website that is associated with the Llama-2-7b-hf. Please follow the instructions on the hugginface website to gain access to the model.
 
 ## Model Outputs
 Model outputs are stored in the results folder with the naming convention: `"results/{new_name1}_{new_name2}_({opts.start_idx}:{opts.end_idx}).json"`. 
@@ -15,5 +15,5 @@ Model outputs are stored in the results folder with the naming convention: `"res
 The window_results has the same data, but the colon is replaced with a hyphen for windows compatability. 
 
 ## Evalutating
-1. `get_accuracies.ipynb` generates `accuracy_results.csv` that has the distinct pairs of names and race, and the accuracy results for each.
-2. `generate_heatmaps.ipynb` creates the resulting heatmaps based on the accuracy results. 
+1. `get_accuracies.py` generates `accuracy_results.csv` that has the distinct pairs of names and race, and the accuracy results for each. Run this file after generating all data output with `python get_accuracies.py`
+2. `generate_heatmaps.py` creates the resulting heatmaps based on the accuracy results. Run this file after running `get_accuracies.py` with `python generate_heatmaps.py`.

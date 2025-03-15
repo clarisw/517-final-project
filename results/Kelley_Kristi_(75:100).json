@@ -1,0 +1,78 @@
+[
+  {
+    "type": "Friends"
+  },
+  {
+    "type": "Lovers"
+  },
+  {
+    "type": "ChildParent"
+  },
+  {
+    "type": "ChildParent"
+  },
+  {
+    "type": "ChildParent"
+  },
+  {
+    "type": "ChildParent"
+  },
+  {
+    "type": "Friends"
+  },
+  {
+    "type": "Friends"
+  },
+  {
+    "type": "Child-Other Family Elder",
+    "reason": "The conversation is between a child and an elderly person."
+  },
+  {
+    "type": "ChildParent"
+  },
+  {
+    "type": "ChildParent"
+  },
+  {
+    "type": "ChildParent"
+  },
+  {
+    "type": "Lovers"
+  },
+  {
+    "type": "ChildParent"
+  },
+  {
+    "type": "Child-Other Family Elder"
+  },
+  {
+    "type": "Friends"
+  },
+  {
+    "type": "ChildParent"
+  },
+  {
+    "type": "ChildParent"
+  },
+  {
+    "type": "Lovers"
+  },
+  {
+    "type": "Child-Other Family Elder"
+  },
+  {
+    "type": "Friends"
+  },
+  {
+    "type": "Lovers"
+  },
+  {
+    "type": "ChildParent"
+  },
+  {
+    "type": "Friends"
+  },
+  {
+    "type": "Friends"
+  }
+]

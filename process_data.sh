@@ -22,7 +22,7 @@ end_idx=100
 # race="Hispanic"
 race="White"
 
-CUDA_VISIBLE_DEVICES=0 python process_data.py \
+CUDA_VISIBLE_DEVICES=2 python process_data.py \
     --model-name $model_name \
     --start-idx $start_idx \
     --end-idx $end_idx \
